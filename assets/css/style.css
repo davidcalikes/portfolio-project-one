@@ -14,6 +14,19 @@ body {
     background-color: #0f0f0f;
 }
 
+h1, h2 {
+    font-family: Raleway, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: rgb(254, 253, 248);
+    text-align: center;
+    margin: 3%;
+}
+
+h2 {
+    font-size: 250%;
+}
+
 /* **** NAVIGATION LINKS **** */
 
 .container {
@@ -104,3 +117,14 @@ body {
         opacity: 1;
     }
 }
+
+/* **** UPCOMING DATES **** */
+
+#dates {
+    height: 600px;
+    width: auto;
+    text-align: center;
+    margin-bottom: 3%;
+    background: url('../images/railway.jpg') no-repeat center center;
+}
+
