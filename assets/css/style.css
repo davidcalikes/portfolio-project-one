@@ -1,4 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 
 body {
-    font-family: fantasy;
+    font-family: Helvetica, sans-serif;
+    font-weight: 250;
+    color: #F9F6EE;
+    background-color: #0f0f0f;
 }
