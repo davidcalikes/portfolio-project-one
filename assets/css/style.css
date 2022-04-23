@@ -33,6 +33,7 @@ body {
     display: flex;
     justify-content: space-evenly;
     width: 33%;
+
 }.box2 {
     order: 2;
     font-size: 100%;
@@ -49,6 +50,27 @@ body {
     width: 33%;
 }
 
+
+.hover-box a:hover {
+    border-bottom: 1px solid #F9F6EE;
+ }
+
 #logo {
     width: 100%;
 }
+
+.nav-link {
+    font-size: 120%;
+    letter-spacing: 4px;
+    text-decoration: none;
+    color: inherit;
+}
+
+ 
+
+.active {
+    border-bottom: 1px solid #F9F6EE;
+}
+
+
+
