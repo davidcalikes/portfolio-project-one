@@ -14,3 +14,41 @@ body {
     background-color: #0f0f0f;
 }
 
+.container {
+    display: block;
+    width: 100%;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.box1 {
+    order: 1;
+    font-size: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    width: 33%;
+}.box2 {
+    order: 2;
+    font-size: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    width: 33%;
+}
+
+.box3 {
+    order: 3;
+    font-size: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    width: 33%;
+}
+
+#logo {
+    width: 100%;
+}
