@@ -14,6 +14,8 @@ body {
     background-color: #0f0f0f;
 }
 
+/* **** NAVIGATION LINKS **** */
+
 .container {
     display: block;
     width: 100%;
@@ -67,10 +69,20 @@ body {
 }
 
  
-
 .active {
     border-bottom: 1px solid #F9F6EE;
 }
 
+/* ****HERO IMAGE**** */
+
+#hero-container {
+    position: relative;
+}
+
+.hero-box {
+    height: 400px;
+    width: 100%;
+    background: url('../images/CGPS1editfinal.jpg') no-repeat center center;
+}
 
 
