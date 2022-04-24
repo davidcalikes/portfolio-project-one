@@ -163,11 +163,14 @@ i {
 
 .form-banner-box {
     width: 100%;
-}
-.form-banner {
-    font-size: 150%;
+    background: linear-gradient(to right, #0f0f0f, #e55e1d, #fcf6ba, #e55e1d, #0f0f0f);
     margin-bottom: 3%;
-    font-family: Raleway, Helvetica;
+}
+
+.form-banner {
+    font-size: 175%;
+    padding: 1%;
+    font-family: fantasy, Helvetica;
 }
 
 #mailing-list {
@@ -179,7 +182,7 @@ i {
 #mailing-list h3 {
     margin-top: 0%;
     color: #0f0f0f;
-    background: linear-gradient(to right, #0f0f0f, #e55e1d, #fcf6ba, #e55e1d, #0f0f0f);
+    /* background: linear-gradient(to right, #0f0f0f, #e55e1d, #fcf6ba, #e55e1d, #0f0f0f); */
 }
 
 .mailing-list-input {
