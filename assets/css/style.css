@@ -41,6 +41,7 @@ i {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    
 }
 
 .col {
@@ -161,14 +162,13 @@ i {
 
 .banner-box {
     width: 100%;
-    background: linear-gradient(to right, #0f0f0f, #e55e1d, #fcf6ba, #e55e1d, #0f0f0f);
-    margin-bottom: 3%;
+    background: linear-gradient(to right, #0f0f0f, #646363, #cbcbcb, #646363, #0f0f0f);
 }
 
 .banner {
     font-size: 175%;
     padding: 2px;
-    padding-top: 2px;
+    padding-top: 20px;
     font-family: fantasy, Helvetica;
     text-align: center;
     color: #0f0f0f;
@@ -177,7 +177,12 @@ i {
 #mailing-list {
     width: auto;
     text-align: center;
+    margin-top: 3%;
     margin-bottom: 10%;
+}
+
+#mailing-list-form {
+    margin-top: 10%;
 }
 
 .mailing-list-input {
@@ -198,12 +203,51 @@ button {
 
 /* **** BAND NEWS **** */
 
-#news-item-hr {
-    height: 100px;
+.news-item {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    height: auto;
     width: auto;
+    margin-bottom: 3%;
+    background: linear-gradient(to right, #0f0f0f, #646363, #cbcbcb, #646363, #0f0f0f);
+    
 }
 
+.half-box {
+        width: 50%;
+        text-align: center;
+}
 
+#record {
+    width: 105%;
+    filter: drop-shadow(30px 10px 4px #0f0f0f);     
+    margin-bottom: 3%;
+}
+
+.text-box {
+    text-align: center;
+    width: 80%;
+    margin-left: 5%;
+}
+
+.news-text {
+    width: 100%;
+    padding: 3%;
+    background-color: rgba(69, 68, 68, 0.3);
+    font-size: 100%;
+
+}
+
+#band-news a {
+    text-decoration: none;
+    color: #e55e1d;
+}
+
+#band-news a:hover {
+    border-bottom: 1px solid #e55e1d;
+}
+    
 
 
 /* **** MEDIA QUERIES **** */
