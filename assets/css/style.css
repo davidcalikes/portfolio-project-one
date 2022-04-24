@@ -40,6 +40,13 @@ h2 {
     align-items: center;
 }
 
+.col {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+
+}
 
 .box1 {
     order: 1;
@@ -64,6 +71,9 @@ h2 {
     width: 33%;
 }
 
+.row-box{
+        width: 100%;
+}
 
 .hover-box a:hover {
     border-bottom: 1px solid #F9F6EE;
@@ -127,3 +137,11 @@ h2 {
     background: url('../images/railway.jpg') no-repeat center center;
 }
 
+#dates ul {
+    width: 600px;
+    font-size: 110%;
+    list-style: none;
+    background-color: rgba(69, 68, 68, 0.7);
+    margin: 0 auto;
+    margin-bottom: 3%;
+}
