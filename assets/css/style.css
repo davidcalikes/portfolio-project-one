@@ -6,7 +6,6 @@
     border: none;
 }
 
-
 body {
     font-family: Helvetica, sans-serif;
     font-weight: 250;
@@ -94,7 +93,6 @@ i {
     color: inherit;
 }
 
- 
 .active {
     border-bottom: 1px solid #F9F6EE;
 }
@@ -161,28 +159,25 @@ i {
 
 /* **** MAILING LIST **** */
 
-.form-banner-box {
+.banner-box {
     width: 100%;
     background: linear-gradient(to right, #0f0f0f, #e55e1d, #fcf6ba, #e55e1d, #0f0f0f);
     margin-bottom: 3%;
 }
 
-.form-banner {
+.banner {
     font-size: 175%;
-    padding: 1%;
+    padding: 2px;
+    padding-top: 2px;
     font-family: fantasy, Helvetica;
+    text-align: center;
+    color: #0f0f0f;
 }
 
 #mailing-list {
     width: auto;
     text-align: center;
-    margin-bottom: 3%;
-}
-
-#mailing-list h3 {
-    margin-top: 0%;
-    color: #0f0f0f;
-    /* background: linear-gradient(to right, #0f0f0f, #e55e1d, #fcf6ba, #e55e1d, #0f0f0f); */
+    margin-bottom: 10%;
 }
 
 .mailing-list-input {
@@ -200,6 +195,14 @@ i {
 button {
     background-color: #e55e1d;
 }
+
+/* **** BAND NEWS **** */
+
+#news-item-hr {
+    height: 100px;
+    width: auto;
+}
+
 
 
 
