@@ -158,3 +158,29 @@ i {
 #dates a:hover {
     border-bottom: 1px solid #e55e1d;
 }
+
+/* **** MEDIA QUERIES **** */
+
+@media screen and (max-width: 600px) {
+    .box2 {
+        order: 0;
+        width: 100%;
+    }
+    .box1 {
+        width: 50%;
+    }
+    .box3 {
+        width: 50%
+    }
+#logo {
+    width: 70%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 15%;
+}
+
+#dates ul{
+    width: auto;
+}
+
+}
