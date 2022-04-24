@@ -143,22 +143,12 @@ i {
 
 #dates ul {
     width: 600px;
-    font-size: 110%;
+    font-size: 115%;
     list-style: none;
     background-color: rgba(69, 68, 68, 0.7);
     margin: 0 auto;
     margin-bottom: 3%;
 }
-
-#dates ul {
-    width: 600px;
-    font-size: 110%;
-    list-style: none;
-    background-color: rgba(69, 68, 68, 0.7);
-    margin: 0 auto;
-    margin-bottom: 3%;
-}
-
 
 #dates a {
     text-decoration: none;
