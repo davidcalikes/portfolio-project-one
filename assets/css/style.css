@@ -161,8 +161,13 @@ i {
 
 /* **** MAILING LIST **** */
 
-.form-banner {
+.form-banner-box {
     width: 100%;
+}
+.form-banner {
+    font-size: 150%;
+    margin-bottom: 3%;
+    font-family: Raleway, Helvetica;
 }
 
 #mailing-list {
@@ -171,6 +176,27 @@ i {
     margin-bottom: 3%;
 }
 
+#mailing-list h3 {
+    margin-top: 0%;
+    color: #0f0f0f;
+    background: linear-gradient(to right, #0f0f0f, #e55e1d, #fcf6ba, #e55e1d, #0f0f0f);
+}
+
+.mailing-list-input {
+    padding: 10px;
+    border-radius: 10px;
+    margin: 1% 20%;
+    width: 55%;
+    font-family: inherit;
+}
+
+#mailing-list a:hover {
+    border-bottom: 1px solid #e55e1d;
+}
+
+button {
+    background-color: #e55e1d;
+}
 
 
 
