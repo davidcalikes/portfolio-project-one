@@ -46,13 +46,11 @@ Below are some features the site has to offer and a preview of features which ma
 
 * ### Mailing List Section
 
-    * The Upcoming Dates Section will inform users of the dates, locations and venues of the bands scheduled live performances.
+    * The Mailing List section invites users to fill out a simple form in order to recievee band news and gig updates via email. 
 
-    * The section includes a feature that allows users to add the dates directly to their personal google calender.
+    * Users will have to provide a name and valid email address in order to subscribe.
     
-    * Users can also view the location of each venue via a link to google maps.
+    * The section provides vivid color to the site and provides a visual buffer between the dates and news sections.
 
-    * The section also provides users with a link to purchase tickets for each show.
-
-<img src="README_images/upcoming_dates.png">
+<img src="README_images/mailing_list.png">
 
