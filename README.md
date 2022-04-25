@@ -1,10 +1,9 @@
 # Cumasc Gael
 
 Cumasc Gael are a Celtic Bluegrass band, based in the North East of Ireland. 
-As a promotional tool for the band, this site will provide an insight into their identity, personality, and character through its design, functionality, and content.
-With its exclusive media content and intuitive functionality, Cumasc Gael aims to provide their target audience with a positive and satisfying user experience.
-The website will also serve to demonstrate the bands asthetic, musical abilities and footprint to potential booking agents and venues. 
-
+Primarily functioning as a promotional tool for the band, this website will provide an insight into the groups musical and artistic identity, personality, and style through its design, functionality, and content.
+With its user centered design, functionality, and exclusive media content and intuitive functionality, Cumasc Gael aims to provide their target audience with a positive and satisfying user experience.
+The website will also serve to demonstrate the bands asthetic, musical abilities and stage footprint to A&R reps, booking agents and venues. 
 
 <img src="README_images/responsive_hero.png">   
 
