@@ -44,13 +44,29 @@ Below are some features the site has to offer and a preview of features which ma
 
 <img src="README_images/upcoming_dates.png">
 
-* ### Mailing List Section
+* ### Band News Section
+
+    * The Band News section provides users with news updates featuring the band and aims to generate a sense of community and connection by offering its users a positive and virtuos news stories about the band.   
+
+    * Each news item contains compact yet engaging stories that keeps users informed and interested.
+    
+    * The section provides vibrant, colorful headings to each news item. These headings serve as a buffer between each story providing users with a visual cue for the beginning of each news story.
+
+    * The band news section also provides users with story specific links should they wish to interact and engage with each section. Each news item link has a hover feature providing visual feedback for the user.
+    
+    * This section also provides vibrant, colorful headings to each news item. These headings serve as a buffer between each story providing users with a visual cue for the beginning of each news story.
+
+<img src="README_images/band_news.png"> 
+
+* ### Mailing List Section    
+    
+    
 
     * The Mailing List section invites users to fill out a simple form in order to recievee band news and gig updates via email. 
 
     * Users will have to provide a name and valid email address in order to subscribe.
     
-    * The section provides vivid color to the site and provides a visual buffer between the dates and news sections.
+    * The Mailing List also has a stylised heading providing a continuity of design across the home page and the website as a whole. 
 
 <img src="README_images/mailing_list.png">
 
