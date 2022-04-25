@@ -160,10 +160,11 @@ i {
 
 /* **** MAILING LIST **** */
 
-.banner-box {
+.banner-box-two {
     width: 100%;
-    background: linear-gradient(to right, #0f0f0f, #646363, #cbcbcb, #646363, #0f0f0f);
+    background: linear-gradient(to right, #0f0f0f, #e55e1d, #fcf6ba, #e55e1d, #0f0f0f);
 }
+
 
 .banner {
     font-size: 175%;
@@ -209,8 +210,8 @@ button {
     align-items: center;
     height: auto;
     width: auto;
-    margin-bottom: 3%;
-    background: linear-gradient(to right, #0f0f0f, #646363, #cbcbcb, #646363, #0f0f0f);
+    margin-bottom: 10%;
+    background: linear-gradient(to bottom, #0f0f0f, #646363, #0f0f0f);
     
 }
 
@@ -222,21 +223,28 @@ button {
 #record {
     width: 105%;
     filter: drop-shadow(30px 10px 4px #0f0f0f);     
+    margin-top: 3;
     margin-bottom: 3%;
+}
+#baldricks {
+    width: 50%;
+    filter: drop-shadow(30px 10px 4px #0f0f0f);
+    margin-top: 10%;
+    margin-bottom: 10%;
 }
 
 .text-box {
     text-align: center;
     width: 80%;
+    margin-top: 10%;
     margin-left: 5%;
 }
 
 .news-text {
     width: 100%;
     padding: 3%;
-    background-color: rgba(69, 68, 68, 0.3);
+    background-color: rgba(69, 68, 68, 0.4);
     font-size: 100%;
-
 }
 
 #band-news a {
@@ -246,6 +254,10 @@ button {
 
 #band-news a:hover {
     border-bottom: 1px solid #e55e1d;
+}
+
+#news-rev {
+    order: 0;
 }
     
 
