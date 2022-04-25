@@ -210,6 +210,16 @@ i {
     font-size: 100%;
 }
 
+#recording {
+    width: 82%;
+    margin: 3%;
+}
+
+#bucket {
+    width: 85%;
+    margin: 3%;
+}
+
 #band-news a {
     text-decoration: none;
     color: #e55e1d;
