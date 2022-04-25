@@ -268,6 +268,82 @@ button {
     background: url('../images/footer-fire.jpg') no-repeat center center;
 }
     
+/* **** FOOTER **** */
+
+#footer-logo {
+    width: 70%;
+    margin-bottom: 5%;
+}
+
+#footer-info {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.container {
+    display: block;
+    width: 100%;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    
+}
+
+.col {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.box1 {
+    order: 1;
+    font-size: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    width: 33%;
+
+}.box2 {
+    order: 2;
+    font-size: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    width: 33%;
+}
+
+.box3 {
+    order: 3;
+    font-size: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    width: 33%;
+}
+
+.row-box{
+        width: 100%;
+}
+
+.hover-box a:hover {
+    border-bottom: 1px solid #F9F6EE;
+ }
+
+#logo {
+    width: 100%;
+}
+
+.nav-link {
+    font-size: 120%;
+    letter-spacing: 4px;
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
 /* **** MEDIA QUERIES **** */
 
 @media screen and (max-width: 600px) {
