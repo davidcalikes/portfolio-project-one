@@ -8,8 +8,8 @@ The website will also serve to demonstrate the bands asthetic, musical abilities
 
 <img src="README_images/responsive_hero.png">   
 
-Features
-Below are some features the site has to offer and a preview of features which may be added in future.
+# Features
+Below are some features the site currently has to offer and also some features which may be added in future.
 
 ## Existing Features ##
 
