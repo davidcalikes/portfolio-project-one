@@ -177,9 +177,9 @@ i {
 }
 
 #record {
-    width: 105%;
+    width: 95%;
     filter: drop-shadow(30px 10px 4px #0f0f0f);     
-    margin-top: 3;
+    margin-top: 10%;
     margin-bottom: 3%;
 }
 #baldricks {
@@ -189,11 +189,18 @@ i {
     margin-bottom: 10%;
 }
 
-.text-box {
+.text-box-left {
+    text-align: center;
+    width: 75%;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+
+.text-box-right {
     text-align: center;
     width: 80%;
     margin-top: 10%;
-    margin-left: 5%;
+    margin-right: 15%;
 }
 
 .news-text {
