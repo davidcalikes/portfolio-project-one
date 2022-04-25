@@ -256,8 +256,8 @@ button {
     border-bottom: 1px solid #e55e1d;
 }
 
-#news-rev {
-    order: 0;
+.news-rev {
+    order: 1;
 }
     
 
