@@ -288,6 +288,13 @@ button {
     background-color: #e55e1d;
 }
 
+/* ***** VIDEO **** */
+
+.video-box {
+    width: 100%;
+    text-align: center;
+}
+
 /* ***** FIRE IMAGE **** */
 
 .fire-box {
