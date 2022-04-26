@@ -386,6 +386,42 @@ font-size: 110%;
 
 @media screen and (max-width: 650px) {
 
+    .box2 {
+        order: 0;
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+    .box1 {
+        width: 50%;
+    }
+    .box3 {
+        width: 50%
+    }
+
+    #logo {
+    width: 70%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 15%;
+    }
+
+    .nav-link {
+        font-size: 100%;
+        letter-spacing: 4px;
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .left-link {
+    margin: 0%;
+    margin-left: 15%;
+    }
+
+    .right-link {
+    margin: 0%;
+    margin-right: 15%;
+    }
+
     .half-box {
         width: 100%;
     }
@@ -415,34 +451,6 @@ font-size: 110%;
 
 @media screen and (max-width: 600px) {
     
-    .box2 {
-        order: 0;
-        width: 100%;
-        margin-bottom: 10%;
-    }
-    .box1 {
-        width: 50%;
-    }
-    .box3 {
-        width: 50%
-    }
-
-#logo {
-    width: 70%;
-    margin-top: 3%;
-    margin-bottom: 3%;
-    margin-left: 15%;
-}
-.left-link {
-    margin: 0%;
-    margin-left: 15%;
-}
-
-.right-link {
-    margin: 0%;
-    margin-right: 15%;
-}
-
 .hero-box {
 height: 400px;
 width: 100%;
@@ -465,12 +473,7 @@ background: url('../images/CG_Small.png') no-repeat center center;
 
 }
 
-.nav-link {
-    font-size: 100%;
-    letter-spacing: 4px;
-    text-decoration: none;
-    color: inherit;
-}
+
 
 @media screen and (max-width: 400px) {
 
