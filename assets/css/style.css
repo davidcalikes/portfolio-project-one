@@ -390,9 +390,28 @@ font-size: 110%;
         width: 100%;
     }
 
+    .text-box-right {
+        text-align: center;
+        width: fit-content;
+        margin-top: 0%;
+        margin-right: 15%;
+        margin-left: 11%;
+    }
+    
+    .text-box-left {
+        
+        text-align: center;
+        width: 70%;
+        margin-top: 0%;
+        margin-left: 14%;
+        margin-right: 14%;
+    }
+
     .news-rev {
         order: 0;
     }
+
+
 
 @media screen and (max-width: 600px) {
     
