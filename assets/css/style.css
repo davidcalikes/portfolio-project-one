@@ -244,7 +244,16 @@ i {
 .banner {
     font-size: 175%;
     padding: 2px;
-    padding-top: 20px;
+    padding-top: 1%;
+    font-family: fantasy, Helvetica;
+    text-align: center;
+    color: #0f0f0f;
+}
+
+#mail-banner {
+    font-size: 175%;
+    padding: 2px;
+    padding-top: 1%;
     font-family: fantasy, Helvetica;
     text-align: center;
     color: #0f0f0f;
@@ -360,9 +369,18 @@ button {
     color: inherit;
 }
 
-
-
 /* **** MEDIA QUERIES **** */
+
+@media screen and (max-width: 900px) {
+
+#mail-banner {
+    font-size: 140%;
+}
+@media screen and (max-width: 800px) {
+
+#mail-banner {
+font-size: 110%;
+}
 
 @media screen and (max-width: 600px) {
     
@@ -377,6 +395,7 @@ button {
     .box3 {
         width: 50%
     }
+
 #logo {
     width: 70%;
     margin-top: 3%;
@@ -401,6 +420,18 @@ background: url('../images/CG_Small.png') no-repeat center center;
 
 #dates ul{
     width: auto;
+}
+#mail-banner {
+    font-size: 110%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.banner {
+    font-size: 140%;
+    padding-left: 15%;
+    padding-right: 15%;
+
 }
 
 .nav-link {
@@ -427,6 +458,9 @@ background: url('../images/CG_Small.png') no-repeat center center;
     .right-link {
         margin: 0%;
         margin-right: 5%;
+}
+
+}
 }
 }
 }
