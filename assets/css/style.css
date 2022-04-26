@@ -85,6 +85,7 @@ i {
 
 #logo {
     width: 100%;
+    margin-top: 5%;
 }
 
 .nav-link {
@@ -382,6 +383,16 @@ button {
 font-size: 110%;
 }
 
+@media screen and (max-width: 650px) {
+
+    .half-box {
+        width: 100%;
+    }
+
+    .news-rev {
+        order: 0;
+    }
+
 @media screen and (max-width: 600px) {
     
     .box2 {
@@ -460,6 +471,7 @@ background: url('../images/CG_Small.png') no-repeat center center;
         margin-right: 5%;
 }
 
+}
 }
 }
 }
