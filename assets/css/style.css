@@ -294,6 +294,7 @@ button {
 
 #footer-info {
     margin-top: 5%;
+    margin-bottom: 5%;
     text-align: center;
 }
 
@@ -368,6 +369,7 @@ button {
     .box2 {
         order: 0;
         width: 100%;
+        margin-bottom: 10%;
     }
     .box1 {
         width: 50%;
@@ -381,9 +383,31 @@ button {
     margin-bottom: 3%;
     margin-left: 15%;
 }
+.left-link {
+    margin: 0%;
+    margin-left: 15%;
+}
+
+.right-link {
+    margin: 0%;
+    margin-right: 15%;
+}
+
+.hero-box {
+height: 400px;
+width: 100%;
+background: url('../images/CG_Small.png') no-repeat center center;
+}
 
 #dates ul{
     width: auto;
+}
+
+.nav-link {
+    font-size: 100%;
+    letter-spacing: 4px;
+    text-decoration: none;
+    color: inherit;
 }
 
 @media screen and (max-width: 400px) {
@@ -395,5 +419,14 @@ button {
     .box1 {
         font-size: 90%;
     }
+
+    .left-link {
+        margin: 0%;
+        margin-left: 5%;
+    }
+    .right-link {
+        margin: 0%;
+        margin-right: 5%;
+}
 }
 }
