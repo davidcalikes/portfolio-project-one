@@ -290,6 +290,15 @@ button {
 
 /* ***** VIDEO **** */
 
+.video-container {
+    width: 100%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    background: linear-gradient(to bottom, #0f0f0f, #646363, #0f0f0f);
+}
+
+
+
 .video-box {
     width: 100%;
     text-align: center;
@@ -481,6 +490,20 @@ background: url('../images/CG_Small.png') no-repeat center center;
 
 }
 
+.video-box {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.video-box iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
 
 
 @media screen and (max-width: 400px) {
