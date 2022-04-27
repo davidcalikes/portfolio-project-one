@@ -328,6 +328,8 @@ button {
 
 audio {
     padding: 1rem;
+    width: 200px;
+    height: 30px;
 }
 
 /* ***** FIRE IMAGE **** */
