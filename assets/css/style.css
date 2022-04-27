@@ -29,6 +29,7 @@ h2 {
 
 i {
     font-size: 240%;
+    margin-bottom: 1rem;
 }
 
 /* **** NAVIGATION BAR **** */
@@ -297,19 +298,24 @@ button {
 .video-container {
     width: 100%;
     margin-top: 5%;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
     background: linear-gradient(to bottom, #0f0f0f, #646363, #0f0f0f);
 }
 
 .video-box {
+    height: 500px;
     width: 100%;
     text-align: center;
+}
+
+#video-text {
+    margin-top: 5%;
 }
 
 /* ***** AUDIO **** */
 
 #audio {
-    height: 1100px;
+    height: 900px;
     width: auto;
     text-align: center;
     margin-bottom: 3%;
@@ -317,8 +323,8 @@ button {
 }
 
 #audio ul {
-    width: 600px;
-    font-size: 110%;
+    width: 900px;
+    font-size: 100%;
     list-style: none;
     background-color: rgba(69, 68, 68, 0.7);
     padding: 1rem;
