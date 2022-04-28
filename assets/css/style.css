@@ -227,6 +227,12 @@ i {
     margin: 3%;
 }
 
+#glory {
+    width: 70%;
+    margin: 3%;
+    margin-top: 15%;
+}
+
 #band-news a {
     text-decoration: none;
     color: #e55e1d;
@@ -351,7 +357,7 @@ audio {
     height: 500px;
     width: auto;
     text-align: center;
-    margin-bottom: 3%;
+    margin-bottom: 10%;
     background: url('../images/hero_lower.webp') no-repeat center center;
 }
 #bio-hero ul {
@@ -366,6 +372,15 @@ audio {
 #about-david {
     width: 90%;
     margin-top: 3%;
+}
+
+#lower-bio a {    
+    text-decoration: none;
+    color: #e55e1d;
+}
+
+#lower-bio a:hover {
+    border-bottom: 1px solid #e55e1d;
 }
 
 /* ***** FIRE IMAGE **** */
