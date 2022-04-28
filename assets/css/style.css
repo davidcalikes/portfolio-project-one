@@ -470,6 +470,11 @@ audio {
 }
 
 /* **** MEDIA QUERIES **** */
+@media screen and (max-width: 950px) {
+
+    #audio ul {
+    width: auto;
+}
 
 @media screen and (max-width: 900px) {
 
@@ -477,6 +482,9 @@ audio {
         font-size: 140%;
     }
 
+   #audio{ 
+       height: fit-content;
+   }
     @media screen and (max-width: 800px) {
 
         #mail-banner {
@@ -590,6 +598,13 @@ audio {
                     height: 100%;
                 }
 
+                #audio ul {
+                    width: auto;
+                }
+
+audio {
+    width: 250px;
+}
 
                 @media screen and (max-width: 400px) {
 
@@ -615,4 +630,5 @@ audio {
             }
         }
     }
+}
 }
