@@ -223,7 +223,7 @@ i {
 }
 
 #bucket {
-    width: 85%;
+    width: 70%;
     margin: 3%;
 }
 
@@ -343,6 +343,29 @@ audio {
     filter: drop-shadow(30px 10px 4px #0f0f0f);
     margin-top: 10%;
     margin-bottom: 3%;
+}
+
+/* **** BIOGRAPHY **** */
+
+#bio-hero {
+    height: 500px;
+    width: auto;
+    text-align: center;
+    margin-bottom: 3%;
+    background: url('../images/hero_lower.webp') no-repeat center center;
+}
+#bio-hero ul {
+    width: 600px;
+    font-size: 115%;
+    list-style: none;
+    background-color: rgba(69, 68, 68, 0.7);
+    margin: 0 auto;
+    margin-bottom: 3%;
+    padding: 1rem;
+}
+#about-david {
+    width: 90%;
+    margin-top: 3%;
 }
 
 /* ***** FIRE IMAGE **** */
