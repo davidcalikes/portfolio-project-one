@@ -196,6 +196,13 @@ i {
     margin-bottom: 10%;
 }
 
+.baldricks {
+    width: 70%;
+    filter: drop-shadow(30px 10px 4px #0f0f0f);
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
 .text-box-left {
     text-align: center;
     width: 75%;

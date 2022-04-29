@@ -29,8 +29,6 @@ Below are some features the site currently has to offer and also some features w
 
 <img src="README_images/hero.png"> 
 
-
-
 * ### Upcoming Dates Section
 
     * The Upcoming Dates Section will inform users of the dates, locations and venues of the bands scheduled live performances.
