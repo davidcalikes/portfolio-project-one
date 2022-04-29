@@ -383,6 +383,18 @@ audio {
     border-bottom: 1px solid #e55e1d;
 }
 
+.thanks-box {
+    height: 300px;
+    width: auto;
+    text-align: center;
+    margin-bottom: 3%;
+    background: url('../images/hero_lower.webp') no-repeat center center;
+}
+#thanks-box p {
+    text-align: center;
+    margin-bottom: 3%;
+}
+
 /* ***** FIRE IMAGE **** */
 
 .fire-box {
