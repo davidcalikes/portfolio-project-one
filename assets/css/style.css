@@ -189,7 +189,7 @@ i {
     margin-bottom: 3%;
 }
 
-#baldricks {
+.gen-img {
     width: 70%;
     filter: drop-shadow(30px 10px 4px #0f0f0f);
     margin-top: 10%;
