@@ -59,8 +59,6 @@ Below are some features the site currently has to offer and also some features w
 
 * ### Mailing List Section    
     
-    
-
     * The Mailing List section invites users to fill out a simple form in order to recievee band news and gig updates via email. 
 
     * Users will have to provide a name and valid email address in order to subscribe.
@@ -68,4 +66,14 @@ Below are some features the site currently has to offer and also some features w
     * The Mailing List also has a stylised heading providing a continuity of design across the home page and the website as a whole. 
 
 <img src="README_images/mailing_list.png">
+
+* ### Fire Image   
+
+    * The Fire Image acts as a visual indicator to signify the beggining of the end of the page.
+    
+    * The fire image is consistent with the style of the site and evokes the Guilded Age aesthetic of the group.
+
+<img src="README_images/fire_image.png">
+
+
 
