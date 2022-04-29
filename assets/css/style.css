@@ -361,7 +361,7 @@ audio {
     background: url('../images/hero_lower.webp') no-repeat center center;
 }
 #bio-hero ul {
-    width: 600px;
+    width: 550px;
     font-size: 115%;
     list-style: none;
     background-color: rgba(69, 68, 68, 0.7);
@@ -611,6 +611,9 @@ audio {
                 }
 
                 #audio ul {
+                    width: auto;
+                }
+                #bio-hero ul{
                     width: auto;
                 }
 
