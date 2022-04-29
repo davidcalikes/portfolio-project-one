@@ -299,6 +299,12 @@ button {
     background-color: #e55e1d;
 }
 
+.form {
+    width: 50%;
+    position: relative;
+    height: 50px;
+}
+
 /* ***** VIDEO **** */
 
 .video-container {
