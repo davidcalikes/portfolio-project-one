@@ -91,7 +91,7 @@ Below are some features the site currently has to offer and also some features w
 
     * The songs in the audio section are relevant to the site's subject matter and consistent in style and design with other media and text across the site.
 
-    <img src="README_images/footer.png">
+    <img src="README_images/audio.png">
 
 
 
