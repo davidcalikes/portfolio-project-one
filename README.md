@@ -104,7 +104,7 @@ Below are some features the site currently has to offer and also some features w
     <img src="README_images/video.png">
 
 
-* ### The Gallery Section 
+* ### The Gallery
 
     * The site Gallery provides users with the option to view still images of the band. 
     
@@ -112,7 +112,33 @@ Below are some features the site currently has to offer and also some features w
 
     * The Gallery section also provides the user with exclusive backstage and travelogue photo content. 
 
+     * The section is organised into three different categories, each clearly separated by a distinctive, stylised heading that's consistent in style with the rest of the site. 
+
     <img src="README_images/gallery.png">
+
+    * ### Upper Bigraphy Section
+
+    * The Upper Biography Section allows the user to access the most pertinent information about the group. 
+    
+    * The content in this section provides users with a simple and interesting overview of the band. Succinct and informative. the compressed nature of this section engages users and encourages scrolling.
+
+    <img src="README_images/upper-bio.png">
+
+     * ### Lower Bigraphy Section
+
+    * The Lower Biography Section allows the user to access more detailed information about the group. 
+    
+    * The content in this section provides users with an informative and engaging learning experience.
+
+    * Each biographical element has an accompanying image relevant to the text content. 
+
+    * The section is again organised into different elements explaining the past present and future direction of the band, with each element clearly separated by a distinctive, stylised heading that's consistent in style with the rest of the site. 
+
+
+
+    <img src="README_images/lower-bio.png">
+
+
 
 
 
