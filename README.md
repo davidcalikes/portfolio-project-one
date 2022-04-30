@@ -93,6 +93,16 @@ Below are some features the site currently has to offer and also some features w
 
     <img src="README_images/audio.png">
 
+    * ### The Video Section 
+
+    * The video section provides users with the option to view video content featuring the band. 
+    
+    * The video in this section does not play automatically to enhance the user experience.
+
+    * The video section provides the user with content relevant to the subject matter of the site.
+
+    <img src="README_images/video.png">
+
 
 
 
