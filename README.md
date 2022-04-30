@@ -134,9 +134,16 @@ Below are some features the site currently has to offer and also some features w
 
     * The section is again organised into different elements explaining the past present and future direction of the band, with each element clearly separated by a distinctive, stylised heading that's consistent in style with the rest of the site. 
 
-
-
     <img src="README_images/lower-bio.png">
+
+    * ### Possible Future Features
+
+    * In future the site aims to include a web store for users to purchase content and merchandise.
+    
+    * The site aims to provide a video landing image in the future.
+ 
+
+
 
 
 
