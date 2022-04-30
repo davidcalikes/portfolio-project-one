@@ -67,11 +67,19 @@ Below are some features the site currently has to offer and also some features w
 
 * ### Fire Image   
 
-    * The Fire Image acts as a visual indicator to signify the beggining of the end of the page.
+    * The Fire Image acts as a visual indicator to signify the end of page specific content.
     
-    * The fire image is consistent with the style of the site and evokes the Guilded Age aesthetic of the group.
+    * The fire image is consistent with the style of the site and evokes the "Guilded Age" aesthetic of the group.
 
 <img src="README_images/fire_image.png">
+
+* ### The Footer  
+
+    * The footer section of the site provides links to the band's social media pages. The links all open in a new tab and contain descriptive title attributes for accessibility  
+    
+    * The social media links provided will visually propmt users to visit the bands social media pages consequently increasing the bands online following. 
+
+<img src="README_images/footer.png">
 
 
 
