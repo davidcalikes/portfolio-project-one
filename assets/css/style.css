@@ -299,11 +299,22 @@ button {
     background-color: #e55e1d;
 }
 
-.form {
-    width: 50%;
-    position: relative;
-    height: 50px;
+.form label {
+    font-size: 10px;
+    color: #e55e1d;
+    text-align: center;
 }
+
+label[for="name"]
+{
+    display:none;
+}
+
+label[for="email"]
+{
+    display:none;
+}
+
 
 /* ***** VIDEO **** */
 
