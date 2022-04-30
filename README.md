@@ -104,7 +104,15 @@ Below are some features the site currently has to offer and also some features w
     <img src="README_images/video.png">
 
 
+* ### The Gallery Section 
 
+    * The site Gallery provides users with the option to view still images of the band. 
+    
+    * The content in this section offers the user an insight into the style and energy of a Cumasc Gael live show.
+
+    * The Gallery section also provides the user with exclusive backstage and travelogue photo content. 
+
+    <img src="README_images/gallery.png">
 
 
 
