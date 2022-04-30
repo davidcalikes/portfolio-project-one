@@ -81,5 +81,21 @@ Below are some features the site currently has to offer and also some features w
 
 <img src="README_images/footer.png">
 
+* ### The Audio Section 
+
+    * The audio section provides users with the option to listen to the music of Cumasc Gael.  
+    
+    * The music in the Audio section does not play automatically to enhance the user experience.
+
+    * The audio section provides the user with content exclusive to the site.
+
+    * The songs in the audio section are relevant to the site's subject matter and consistent in style and design with other media and text across the site.
+
+    <img src="README_images/footer.png">
+
+
+
+
+
 
 
