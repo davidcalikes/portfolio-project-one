@@ -29,6 +29,16 @@ Below are some features the site currently has to offer and also some features w
 
 <img src="README_images/hero.png"> 
 
+* ### Sticky Navigation Menu   
+
+    * The Sticky Navigation Menu sticks to a fixed position at the top of the screen when a user scrolls past the hero image section.
+    
+    * This feature allows users to access any pages of the site without the requirement of scrolling back to the top of the page.
+
+    * The Sticky Navigation Menu takes up very little screen space and therefore doesnt obstruct any of the sites content.
+    
+    * This feature is intuitively designed with a recognisable 'burger' style icon and is easily accessible for the user.
+
 * ### Upcoming Dates Section
 
     * The Upcoming Dates Section will inform users of the dates, locations and venues of the bands scheduled live performances.
