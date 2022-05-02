@@ -57,13 +57,13 @@ The website will also serve to demonstrate the bands asthetic, musical abilities
 
    <img src="README_images/wireframe.png">
 
-    * Home page wireframes
+    * [Home page wireframes](README_images/wireframes/home_wf.pdf)
 
-    * Media page wireframes
+    * [Media page wireframes](README_images/wireframes/media_wf.pdf)
     
-    * About page wireframes
+    * [About page wireframes](README_images/wireframes/about_wf.pdf)
 
-    * Contact page wireframes
+    * [Contact page wireframes](README_images/wireframes/contact_wf.pdf)
 
     The site conforms to the general structure and scope of these wireframes yet deviates significantly with respect the colour scheme. 
 
