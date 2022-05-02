@@ -9,32 +9,46 @@ The website will also serve to demonstrate the bands asthetic, musical abilities
 
 # Planning & Development
 
-## User Stories ##
- 
+* ### User Stories
+
     * As a user, I want to find out more about Cumasc Gael.
-    
+ 
     * As a User, I want to find the most relevant information quickly and intuitivly.
     
     * As a user, I want access to exclusive media content.
 
     * As a user, I want to have a positive emotional experience.
-
-* ### Navigation Bar
-
-    * The navigation bar is fully responsive and uniform across all four pages of the site.
-
-    * The section includes links to the Home, Media, About and Contact pages.
-    * Each navigation link has a hover feature providing visual feedback for the user. Each page has a separate active link which provides the user instant feedback regarding their location on the site.
-
-<img src="README_images/navbar.png"> 
-
-* Main Image 
-
-    * The main image or hero image of the site includes a photograph of the band which fades in from black. 
     
-    * Not only is the fade animation visually arresting but the subject matter of the picture immediately informs the user of the formation and visual style of the band whilst also being suggestive of musical genre.
+    * As a user, I want to sign up to a mailing list to stay informed.
 
-<img src="README_images/hero.png"> 
+* ### Site Objectives
+
+    * The Site aims to provide information about Cumasc Gael to a general audience including fans of Traditional and Bluegrass music, but also interested industry professionals.
+
+    * The Site Aims to act as an Electroninc Press Kit, for professional use within the music industry.
+    
+    * Another aim of this site, is to provide exclusive media content to the user.
+
+    * The site also aims to provide users with a mailing list subscription option.
+
+* ### Approach
+
+    * The information will be provided to the user on a value scale with the most important content immediately visible.  
+
+    * The site will provide users links through which they can book tickets to see the band.
+
+    * The site will provide users with links to venue locations and the option to add show dates to google calender
+    
+    * The Site will provide exclusive media content to all users such as Embedded audio files, youtube videos and photo gallery.
+
+    * The content of the site will be inoffensive and accesible to all.
+
+    * The site will be easy to navigate, intuitive and consistent in design.
+
+    * The site will provide a method through which users can subscribe to a mailing list. 
+
+<img src="README_images/info_flow.png"> 
+
 
 * ### Sticky Navigation Menu   
 
