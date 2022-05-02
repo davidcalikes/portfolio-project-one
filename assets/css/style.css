@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&family=Raleway:wght@500&display=swap');
 
 * {
     margin: 0;
@@ -14,8 +14,7 @@ body {
 }
 
 h1,h2 {
-    font-family: Raleway, sans-serif;
-    text-transform: uppercase;
+    font-family: Quintessential, cursive;
     letter-spacing: 4px;
     color: rgb(254, 253, 248);
     text-align: center;
@@ -23,7 +22,19 @@ h1,h2 {
 }
 
 h2 {
-    font-size: 250%;
+    font-size: 300%;
+    font-weight: 100;
+}
+
+h3 {
+    
+    font-size: 150%;
+    padding: 6px;
+    font-family: Raleway, Helvetica;
+    text-align: center;
+    color: #0f0f0f;
+    font-style: italic;
+
 }
 
 i {
@@ -273,7 +284,7 @@ input:checked ~ label{
 }
 
 .inner-image {
-    width: 70%;
+    width: 85%;
     margin: 3%;
 }
 
@@ -309,18 +320,18 @@ input:checked ~ label{
     font-size: 175%;
     padding: 2px;
     padding-top: 1%;
-    font-family: fantasy, Helvetica;
+    font-family: Raleway, Helvetica;
     text-align: center;
     color: #0f0f0f;
 }
 
 #mail-banner {
-    font-size: 175%;
-    padding: 2px;
-    padding-top: 1%;
-    font-family: fantasy, Helvetica;
+    font-size: 150%;
+    padding: 6px;
+    font-family: Raleway, Helvetica;
     text-align: center;
     color: #0f0f0f;
+    font-style: italic;
 }
 
 #mailing-list {

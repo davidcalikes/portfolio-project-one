@@ -111,6 +111,8 @@ Below are some features the site currently has to offer and also some features w
     
     * This feature is intuitively designed with a recognisable 'burger' style icon and is easily accessible for the user.
 
+    <img src="README_images/sticky_nav.png"> 
+
 * ### Upcoming Dates Section
 
     * The Upcoming Dates Section will inform users of the dates, locations and venues of the bands scheduled live performances.
