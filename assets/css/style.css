@@ -102,7 +102,7 @@ i {
     border-bottom: 1px solid #F9F6EE;
 }
 
-/* ****HERO IMAGE**** */
+/* **** HERO IMAGE **** */
 
 #hero-container {
     position: relative;
@@ -133,6 +133,10 @@ i {
         opacity: 1;
     }
 }
+
+/* STICKY NAV MENU */
+
+
 
 /* **** UPCOMING DATES **** */
 
