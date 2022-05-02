@@ -260,20 +260,77 @@ Below are some features the site currently has to offer and also some features w
     
     * The Contact section provides direct links to email the band's tour and managment companies.
 
-    
-
     <img src="README_images/lower-bio.png">
-
-
-
-
-
 
     * ### Possible Future Features
 
     * In future the site aims to include a web store for users to purchase content and merchandise.
     
     * The site aims to provide a video landing image in the future.
+
+    # Testing
+
+* ### Validator Testing
+
+    * As a user, I want to find out more about Cumasc Gael.
+ 
+    * As a User, I want to find the most relevant information quickly and intuitivly.
+    
+    * As a user, I want access to exclusive media content.
+
+    * As a user, I want to have a positive emotional experience.
+
+* ### Bugs
+
+
+   # Testing
+
+* ### Deployment
+
+    * As a user, I want to find out more about Cumasc Gael.
+ 
+    * As a User, I want to find the most relevant information quickly and intuitivly.
+    
+    * As a user, I want access to exclusive media content.
+
+    * As a user, I want to have a positive emotional experience.
+
+   
+
+* ### Languages
+
+    * As a user, I want to find out more about Cumasc Gael.
+ 
+    * As a User, I want to find the most relevant information quickly and intuitivly.
+    
+    * As a user, I want access to exclusive media content.
+
+    * As a user, I want to have a positive emotional experience.
+
+    * ### Software
+
+    * As a user, I want to find out more about Cumasc Gael.
+ 
+    * As a User, I want to find the most relevant information quickly and intuitivly.
+    
+    * As a user, I want access to exclusive media content.
+
+    * As a user, I want to have a positive emotional experience.
+
+
+* ### Content
+
+    * As a user, I want to find out more about Cumasc Gael.
+ 
+    * As a User, I want to find the most relevant information quickly and intuitivly.
+    
+    * As a user, I want access to exclusive media content.
+
+    * As a user, I want to have a positive emotional experience.
+
+* ### Media
+
+
  
 
 
