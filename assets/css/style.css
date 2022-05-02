@@ -465,6 +465,37 @@ audio {
     border-bottom: 1px solid #e55e1d;
 }
 
+#contacts {
+    height: 1000px;
+    width: auto;
+    text-align: center;
+    margin-bottom: 10%;
+    background: url('../images/hero_lower.webp') no-repeat center center;
+}
+
+#contacts ul {
+    width: 600px;
+    font-size: 115%;
+    list-style: none;
+    background-color: rgba(69, 68, 68, 0.7);
+    margin: 0 auto;
+    margin-bottom: 6%;
+    padding: 1rem;
+}
+
+#contacts a {
+    text-decoration: none;
+    color: #e55e1d;
+}
+
+#contacts a:hover {
+    border-bottom: 1px solid #e55e1d;
+}
+
+.con-head {
+    color: #F9F6EE;
+}
+
 .thanks-box {
     height: 300px;
     width: auto;
@@ -699,9 +730,13 @@ audio {
                     width: auto;
                 }
 
-audio {
-    width: 250px;
-}
+                #contacts ul {
+                    width: auto;
+                }
+
+                audio {
+                width: 250px;
+                }
 
                 @media screen and (max-width: 400px) {
 
