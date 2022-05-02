@@ -169,6 +169,22 @@ input#menu{
     filter: drop-shadow(10px 10px 4px #0f0f0f);
 } 
 
+/* STICKY NAV STATUS */
+
+.menu-content{
+    max-height: 0;
+    overflow: hidden;
+}
+
+input:checked ~ .menu-content{
+    max-height: 1000px;
+    transition: all ease 1s;
+}
+
+input:checked ~ label{
+    background: url('../images/menu_closed.png') no-repeat left center;
+}
+
 /* **** UPCOMING DATES **** */
 
 #dates {
