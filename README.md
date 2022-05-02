@@ -5,7 +5,60 @@ Primarily functioning as a promotional tool for the band, this website will prov
 With its user centered design, functionality, and exclusive media content and intuitive functionality, Cumasc Gael aims to provide their target audience with a positive and satisfying user experience.
 The website will also serve to demonstrate the bands asthetic, musical abilities and stage footprint to A&R reps, booking agents and venues. 
 
-<img src="README_images/responsive_hero.png">   
+<img src="README_images/responsive_hero.png">  
+
+# Planning & Development
+
+## User Stories ##
+ 
+    * As a user, I want to find out more about Cumasc Gael.
+    
+    * As a User, I want to find the most relevant information quickly and intuitivly.
+    
+    * As a user, I want access to exclusive media content.
+
+    * As a user, I want to have a positive emotional experience.
+
+* ### Navigation Bar
+
+    * The navigation bar is fully responsive and uniform across all four pages of the site.
+
+    * The section includes links to the Home, Media, About and Contact pages.
+    * Each navigation link has a hover feature providing visual feedback for the user. Each page has a separate active link which provides the user instant feedback regarding their location on the site.
+
+<img src="README_images/navbar.png"> 
+
+* Main Image 
+
+    * The main image or hero image of the site includes a photograph of the band which fades in from black. 
+    
+    * Not only is the fade animation visually arresting but the subject matter of the picture immediately informs the user of the formation and visual style of the band whilst also being suggestive of musical genre.
+
+<img src="README_images/hero.png"> 
+
+* ### Sticky Navigation Menu   
+
+    * The Sticky Navigation Menu sticks to a fixed position at the top of the screen when a user scrolls past the hero image section.
+    
+    * This feature allows users to access any pages of the site without the requirement of scrolling back to the top of the page.
+
+    * The Sticky Navigation Menu takes up very little screen space and therefore doesnt obstruct any of the sites content.
+    
+    * This feature is intuitively designed with a recognisable 'burger' style icon and is easily accessible for the user.
+
+* ### Upcoming Dates Section
+
+    * The Upcoming Dates Section will inform users of the dates, locations and venues of the bands scheduled live performances.
+
+    * The section includes a feature that allows users to add the dates directly to their personal google calender.
+    
+    * Users can also view the location of each venue via a link to google maps.
+
+    * The section also provides users with a link to purchase tickets for each show.
+
+<img src="README_images/upcoming_dates.png">
+
+
 
 # Features
 Below are some features the site currently has to offer and also some features which may be added in future.
