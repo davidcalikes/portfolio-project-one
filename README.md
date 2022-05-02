@@ -1,6 +1,7 @@
 # Cumasc Gael
 
-Cumasc Gael are a Celtic Bluegrass band, based in the North East of Ireland. 
+Cumasc Gael are an up and coming Celtic Bluegrass band, based in the North East of Ireland. 
+Recently the band have jumped from the coverband circuit to performing original songs and require an industry standard "Electronic Press Kit" to promote and exhibit themselves and their content.   
 Primarily functioning as a promotional tool for the band, this website will provide an insight into the groups musical and artistic identity, personality, and style through its design, functionality, and content.
 With its user centered design, functionality, and exclusive media content and intuitive functionality, Cumasc Gael aims to provide their target audience with a positive and satisfying user experience.
 The website will also serve to demonstrate the bands asthetic, musical abilities and stage footprint to A&R reps, booking agents and venues. 
@@ -29,7 +30,7 @@ The website will also serve to demonstrate the bands asthetic, musical abilities
     
     * Another aim of this site, is to provide exclusive media content to the user.
 
-    * The site also aims to provide users with a mailing list subscription option.
+    * The site also aims to increase the fanbase of Cumasc Gael by providing users with a positive emotional experience and a mailing list subscription option.
 
 * ### Approach
 
@@ -50,28 +51,32 @@ The website will also serve to demonstrate the bands asthetic, musical abilities
 <img src="README_images/info_flow.png"> 
 
 
-* ### Sticky Navigation Menu   
+* ### Wireframes  
 
-    * The Sticky Navigation Menu sticks to a fixed position at the top of the screen when a user scrolls past the hero image section.
+    Desktop, tablet and mobile wireframes were created using Balsamiq software to give a general overview of the layout of the site and organise the content logically. An image is posted of one of the wireframes below. Links to each wireframe set are also available.
+
+   <img src="README_images/wireframe.png">
+
+    * Home page wireframes
+
+    * Media page wireframes
     
-    * This feature allows users to access any pages of the site without the requirement of scrolling back to the top of the page.
+    * About page wireframes
 
-    * The Sticky Navigation Menu takes up very little screen space and therefore doesnt obstruct any of the sites content.
+    * Contact page wireframes
+
+    The site conforms to the general structure and scope of these wireframes yet deviates significantly with respect the colour scheme. 
+
+* ### Colour Scheme
+
+    * The predominant feature of the color scheme is undoubtebtly Greyscale.
+    This stylistic choice and evoke's what the band calls its "Gilded Age" aesthetic, the gilded age being an era before color photography and where traditional music was the popular genre. 
+
+    * The orange in the color scheme is referenced from the fire footer padding image and again is suggestive of a rustic and simpler epoch.  
     
-    * This feature is intuitively designed with a recognisable 'burger' style icon and is easily accessible for the user.
+    * The fire image was deliberatly included as flames and fire are also heavily featured in the band's upcoming music video for thier latest single.
 
-* ### Upcoming Dates Section
-
-    * The Upcoming Dates Section will inform users of the dates, locations and venues of the bands scheduled live performances.
-
-    * The section includes a feature that allows users to add the dates directly to their personal google calender.
-    
-    * Users can also view the location of each venue via a link to google maps.
-
-    * The section also provides users with a link to purchase tickets for each show.
-
-<img src="README_images/upcoming_dates.png">
-
+<img src="README_images/color_pallete.png">
 
 
 # Features
