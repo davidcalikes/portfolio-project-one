@@ -736,6 +736,7 @@ audio {
 
                 #contacts ul {
                     width: auto;
+                    background-color: rgba(69, 68, 68, 0.8)
                 }
 
                 audio {
