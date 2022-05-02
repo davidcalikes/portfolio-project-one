@@ -399,10 +399,9 @@ label[for="email"]
 /* ***** AUDIO **** */
 
 #audio {
-    height: 800px;
+    height: 900px;
     width: auto;
     text-align: center;
-    margin-bottom: 10%;
     background: url('../images/hero_lower.webp') no-repeat center center;
 }
 
@@ -428,10 +427,6 @@ audio {
     margin-top: 10%;
     margin-bottom: 3%;
 }
-
-.media-box{
-    margin-top: 10%;
-    }
 
 /* **** BIOGRAPHY **** */
 
@@ -606,9 +601,6 @@ audio {
         font-size: 140%;
     }
 
-   #audio{ 
-       height: fit-content;
-   }
     @media screen and (max-width: 800px) {
 
         #mail-banner {
@@ -741,7 +733,18 @@ audio {
 
                 audio {
                 width: 250px;
+
                 }
+
+                .video-box {
+                    margin-bottom: 25%;
+                }
+
+                @media screen and (max-width: 500px) {
+                    #audio ul {
+                        font-size: 90%;
+                    }
+
 
                 @media screen and (max-width: 400px) {
 
@@ -763,6 +766,18 @@ audio {
                         margin-right: 5%;
                     }
 
+                        #audio ul {
+                            font-size: 80%;
+                        }
+
+                        .video-box {
+                            margin-bottom: 20%;
+                        }
+
+                        .media-box{
+                            margin-top: 15%;
+                            }
+
                     #bio-hero{
                         font-size: 85%;
                     }
@@ -772,5 +787,6 @@ audio {
             }
         }
     }
+}
 }
 }
