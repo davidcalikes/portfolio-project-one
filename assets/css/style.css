@@ -8,7 +8,7 @@
 
 body {
     font-family: Helvetica, sans-serif;
-    font-weight: 250;
+    font-weight: 200;
     color: #F9F6EE;
     background-color: #0f0f0f;
 }
@@ -447,7 +447,7 @@ audio {
 }
 #bio-hero ul {
     width: 550px;
-    font-size: 115%;
+    font-size: 100%;
     list-style: none;
     background-color: rgba(69, 68, 68, 0.7);
     margin: 0 auto;
@@ -475,9 +475,13 @@ audio {
     background: url('../images/hero_lower.webp') no-repeat center center;
 }
 
+#contacts li {
+    padding: 1px;
+}
+
 #contacts ul {
     width: 600px;
-    font-size: 115%;
+    font-size: 100%;
     list-style: none;
     background-color: rgba(69, 68, 68, 0.8);
     margin: 0 auto;
