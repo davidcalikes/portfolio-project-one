@@ -469,7 +469,6 @@ audio {
     height: 1000px;
     width: auto;
     text-align: center;
-    margin-bottom: 10%;
     background: url('../images/hero_lower.webp') no-repeat center center;
 }
 
@@ -479,7 +478,7 @@ audio {
     list-style: none;
     background-color: rgba(69, 68, 68, 0.7);
     margin: 0 auto;
-    margin-bottom: 6%;
+    margin-bottom: 3%;
     padding: 1rem;
 }
 
@@ -726,6 +725,11 @@ audio {
                 #audio ul {
                     width: auto;
                 }
+                
+                #bio-hero {
+                    margin-bottom: 30%;
+                }
+                
                 #bio-hero ul{
                     width: auto;
                 }
@@ -757,6 +761,11 @@ audio {
                         margin: 0%;
                         margin-right: 5%;
                     }
+
+                    #bio-hero{
+                        font-size: 85%;
+                    }
+
 
                 }
             }
