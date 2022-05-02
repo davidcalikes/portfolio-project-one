@@ -202,6 +202,10 @@ input:checked ~ label{
 
 /* **** UPCOMING DATES **** */
 
+#dates li {
+    padding: 1px;
+}
+
 #dates {
     height: 800px;
     width: auto;
@@ -212,7 +216,7 @@ input:checked ~ label{
 
 #dates ul {
     width: 600px;
-    font-size: 115%;
+    font-size: 100%;
     list-style: none;
     background-color: rgba(69, 68, 68, 0.7);
     margin: 0 auto;
