@@ -136,7 +136,17 @@ i {
 
 /* STICKY NAV MENU */
 
+input#menu{
+    display: none;
+}
 
+.dropdown-menu{
+    width: 80px;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
 
 /* **** UPCOMING DATES **** */
 
