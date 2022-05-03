@@ -278,7 +278,7 @@ Below are some features the site currently has to offer and also some features w
 
     The link to my practice repo is available below.
 
-    * [Cumasc Gael -- Practice Repository](url:https://github.com/davidcalikes/flex-test )
+    * [Cumasc Gael -- Practice Repository](https://github.com/davidcalikes/flex-test)
 
 
 
