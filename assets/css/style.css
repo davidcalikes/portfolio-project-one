@@ -13,8 +13,13 @@ body {
     background-color: #0f0f0f;
 }
 
+img {
+    color: #F9F6EE;
+}
+
 nav a {
     font-family: Helvetica, sans-serif;
+    color: #F9F6EE;
 }
 
 h1,h2 {
@@ -44,6 +49,10 @@ h3 {
 i {
     font-size: 240%;
     margin-bottom: 1rem;
+}
+
+.logo-alt {
+    color: #F9F6EE;
 }
 
 /* **** NAVIGATION BAR **** */
@@ -525,10 +534,15 @@ audio {
 
 /* **** FOOTER **** */
 
+footer a {
+    color: #F9F6EE;
+}
+
 #footer-logo {
     width: 70%;
     margin-bottom: 5%;
     margin-left: 15%;
+    color: #F9F6EE;
 }
 
 #footer-info {
