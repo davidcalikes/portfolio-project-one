@@ -272,20 +272,34 @@ Below are some features the site currently has to offer and also some features w
 
     * ### Development Testing
 
-    As this was my first project as a developer, I decided to create a practice repository to test how each part of my code would respond after deployment to many different browsers, devices and operating systems.  
+    As this was my first project as a developer, I decided to create a practice repository to test how each part of my code would respond after deployment to several different browsers, devices and operating systems.  
 
     Initially I was experimenting with how to best use a flexible box model to replicate the look and responsivity of my wireframes. 
 
-    The link to my practice repo is available below.
+    The link to my practice repository is available below.
 
     * [Cumasc Gael -- Practice Repository](https://github.com/davidcalikes/flex-test)
 
+Much like the wireframes developed during the planning process, the practice repository differs in many areas from the final project. These changes were made not only to improve the look and consistency of the site, but to reduce screen loading times and optimise user experience. I also managed to achieve similar, if not improved results and performance using significantly less lines of code as I began to progress and learn as a developer.  
 
 
-    
+* ### Testing Technologies 
+    I rigorously tested the site during the development phase using using the following:
+    * Mac Pro with a 21" Apple Cinema display -- Safari, Chrome and Firefox
 
+    * Macbook pro 13" -- Safari, Chrome and Firefox
 
-    
+    * Toshiba Laptop 15" (Windows 10) -- Edge, Chrome and Firefox
+
+    * Apple iPad Mini (5th gen) -- Safari and Chrome
+
+    Huawei P20 Pro Android Phone -- Chrome and Firfox
+
+    Samsung Galaxy Tab 7" -- Chrome
+
+    I also used Google Dev-tools to test the sites responsivity in real time and also emulate the sites appearance and responsivity across several other devices.
+
+    <img src="README_images/dev_tools.png">
 
 * ### Validator Testing
 
