@@ -57,9 +57,10 @@ i {
 
 /* **** NAVIGATION BAR **** */
 
-.container {
+.nav-container {
     display: block;
-    width: 100%;
+    width: 80%;
+    margin-left: 10%;
 }
 
 .row {
@@ -169,10 +170,10 @@ input#menu{
 }
 
 .dropdown-menu{
-    display: none;
+    
     width: 80px;
-    padding: 20px;
-    position: sticky;
+    padding: 50px;
+    position: fixed;
     top: 0;
     z-index: 999;
 }
@@ -533,6 +534,31 @@ audio {
 
 /* **** FOOTER **** */
 
+.footer-box1 {
+    order: 1;
+    font-size: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    width: 33%;
+
+}
+
+.footer-box2 {
+    order: 2;
+    font-size: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    width: 33%;
+}
+
+.footer-box3 {
+    order: 3;
+    font-size: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    width: 33%;
+}
+
 footer a {
     color: #F9F6EE;
 }
@@ -570,31 +596,6 @@ footer a {
 
 }
 
-.box1 {
-    order: 1;
-    font-size: 100%;
-    display: flex;
-    justify-content: space-evenly;
-    width: 33%;
-
-}
-
-.box2 {
-    order: 2;
-    font-size: 100%;
-    display: flex;
-    justify-content: space-evenly;
-    width: 33%;
-}
-
-.box3 {
-    order: 3;
-    font-size: 100%;
-    display: flex;
-    justify-content: space-evenly;
-    width: 33%;
-}
-
 .row-box {
     width: 100%;
 }
@@ -615,6 +616,27 @@ footer a {
 }
 
 /* **** MEDIA QUERIES **** */
+
+@media screen and (max-width: 1200px) {
+    
+    .dropdown-menu {
+        width: 80px;
+        padding: 40px;
+        position: fixed;
+        top: 0;
+        z-index: 999;
+    }
+
+    @media screen and (max-width: 1000px) {
+    
+        .dropdown-menu {
+            width: 80px;
+            padding: 30px;
+            position: fixed;
+            top: 0;
+            z-index: 999;
+        }
+
 @media screen and (max-width: 950px) {
 
     #audio ul {
@@ -628,6 +650,7 @@ footer a {
     }
 
     @media screen and (max-width: 800px) {
+
 
         #mail-banner {
             font-size: 110%;
@@ -678,6 +701,20 @@ footer a {
             color: #F9F6EE;
             }
 
+            .footer-box2 {
+                order: 0;
+                width: 100%;
+                margin-bottom: 1rem;
+            }
+    
+            .footer-box1 {
+                width: 50%;
+            }
+    
+            .footer-box3 {
+                width: 50%
+            }
+
         @media screen and (max-width: 650px) {
 
             
@@ -709,14 +746,22 @@ footer a {
 
             @media screen and (max-width: 600px) {
 
+                .nav-container {
+                    display: block;
+                    width: 100%;
+                    margin-left: 0%;
+                }
+                
+                
                 .dropdown-menu{
                     display: block;
-                    width: 120px;
+                    width: 130px;
                     padding-top: 55px;
                     padding-left: 10px;
                     position: fixed;
                     top: 0;
                     z-index: 999;
+                    font-size: 32px;
                 }
 
                 .box3 {
@@ -803,8 +848,6 @@ footer a {
                     }
 
 
-                @media screen and (max-width: 400px) {
-
                     .left-link {
                         margin: 0%;
                         margin-left: 5%;
@@ -836,6 +879,7 @@ footer a {
             }
         }
     }
+}
 }
 }
 }
