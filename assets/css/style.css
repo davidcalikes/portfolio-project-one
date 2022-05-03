@@ -169,6 +169,7 @@ input#menu{
 }
 
 .dropdown-menu{
+    display: none;
     width: 80px;
     padding: 20px;
     position: sticky;
@@ -706,10 +707,30 @@ footer a {
                 order: 0;
             }
 
-            
-
-
             @media screen and (max-width: 600px) {
+
+                .dropdown-menu{
+                    display: block;
+                    width: 120px;
+                    padding-top: 55px;
+                    padding-left: 10px;
+                    position: fixed;
+                    top: 0;
+                    z-index: 999;
+                }
+
+                .box3 {
+                    display: none;
+                }
+
+                .box1 {
+                    display: none;
+                }
+
+                #logo {
+                    margin-left: 5rem;
+                    margin-top: 2rem;
+                }
 
                 .hero-box {
                     height: 400px;
@@ -783,14 +804,6 @@ footer a {
 
 
                 @media screen and (max-width: 400px) {
-
-                    .box3 {
-                        font-size: 90%;
-                    }
-
-                    .box1 {
-                        font-size: 90%;
-                    }
 
                     .left-link {
                         margin: 0%;
