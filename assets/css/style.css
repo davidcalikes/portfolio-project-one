@@ -192,7 +192,7 @@ input#menu{
 .dropdown-menu label{
     display: block;
     cursor: pointer;
-    background: url('../images/menu_open.png') no-repeat left center;
+    background: url('../images/menu_closed.png') no-repeat left center;
     padding: 30px 0 30px 80px;
     filter: drop-shadow(10px 10px 4px #0f0f0f);
 } 
@@ -210,7 +210,7 @@ input:checked ~ .menu-content{
 }
 
 input:checked ~ label{
-    background: url('../images/menu_closed.png') no-repeat left center;
+    background: url('../images/menu_open.png') no-repeat left center;
 }
 
 /* **** UPCOMING DATES **** */
