@@ -226,11 +226,11 @@ input:checked ~ label{
 
 #dates a {
     text-decoration: none;
-    color: #e55e1d;
+    color: #fba90b;
 }
 
 #dates a:hover {
-    border-bottom: 1px solid #e55e1d;
+    border-bottom: 1px solid #fba90b;
 }
 
 /* **** BAND NEWS **** */
@@ -305,11 +305,11 @@ input:checked ~ label{
 
 #band-news a {
     text-decoration: none;
-    color: #e55e1d;
+    color: #fba90b;
 }
 
 #band-news a:hover {
-    border-bottom: 1px solid #e55e1d;
+    border-bottom: 1px solid #fba90b;
 }
 
 .news-rev {
@@ -361,7 +361,7 @@ input:checked ~ label{
 }
 
 #mailing-list a:hover {
-    border-bottom: 1px solid #e55e1d;
+    border-bottom: 1px solid #fba90b;
 }
 
 button {
@@ -370,7 +370,7 @@ button {
 
 .form label {
     font-size: 10px;
-    color: #e55e1d;
+    color: #fba90b;
     text-align: center;
 }
 
@@ -461,11 +461,11 @@ audio {
 
 #lower-bio a {    
     text-decoration: none;
-    color: #e55e1d;
+    color: #fba90b;
 }
 
 #lower-bio a:hover {
-    border-bottom: 1px solid #e55e1d;
+    border-bottom: 1px solid #fba90b;
 }
 
 #contacts {
@@ -491,11 +491,12 @@ audio {
 
 #contacts a {
     text-decoration: none;
-    color: #e55e1d;
+    color: #fba90b;
 }
 
 #contacts a:hover {
-    border-bottom: 1px solid #e55e1d;
+    border-bottom: 1px solid #fba90b
+;
 }
 
 .con-head {

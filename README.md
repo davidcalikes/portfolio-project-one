@@ -6,7 +6,7 @@ Recently, the band have moved away from the Irish cover-band circuit to performi
 
 The band have since recieved multiple invitations to perform globally, and have recently conducted a small American tour which was extremely well recieved.
 
-Due to the growing popularity of the band, they now require an industry standard "Electronic Press Kit" to promote themselves and their exciting new content.   
+Due to the growing popularity of the band, they now require an industry standard "Electronic Press Kit" to promote themselves and their exciting new ≈direction.   
 
 Functioning as a promotional tool for the band, this website will provide users an insight into the groups musical and artistic identity along with their personality, creative output and style.
 
@@ -48,7 +48,7 @@ The website will also serve to demonstrate the bands asthetic, musical abilities
 
     * The site will provide users with links to venue locations and the option to add show dates to google calender
     
-    * The Site will provide exclusive media content to all users such as Embedded audio files, youtube videos and photo gallery.
+    * The site will provide exclusive media content to all users such as Embedded audio files, youtube videos and photo gallery.
 
     * The content of the site will be inoffensive and accesible to all.
 
