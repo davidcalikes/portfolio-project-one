@@ -270,20 +270,35 @@ Below are some features the site currently has to offer and also some features w
 
     # Testing
 
+    * ### Development Testing
+
+    As this was my first project as a developer, I decided to create a practice repository to test how each part of my code would respond after deployment to many different browsers, devices and operating systems.  
+
+    Initially I was experimenting with how to best use a flexible box model to replicate the look and responsivity of my wireframes. 
+
+    The link to my practice repo is available below.
+
+    * [Cumasc Gael -- Practice Repository](url:https://github.com/davidcalikes/flex-test )
+
+
+
+    
+
+
+    
+
 * ### Validator Testing
 
-    * As a user, I want to find out more about Cumasc Gael.
+    * All pages of the site were passed through the W3C Validator and are error free.
  
-    * As a User, I want to find the most relevant information quickly and intuitivly.
-    
-    * As a user, I want access to exclusive media content.
+    * The CSS stylesheet was passe through the Jigsaw Validator and returned no errors.
 
-    * As a user, I want to have a positive emotional experience.
+* ### Unfixed Bugs
 
-* ### Bugs
+    * On some touchscreen devices an error occurs due to the hover psuedo class which fails to deselect a nav link when a user returns to the previous page via the back arrow.
 
+     <img src="README_images/bug.png">
 
-   # Testing
 
 * ### Deployment
 
