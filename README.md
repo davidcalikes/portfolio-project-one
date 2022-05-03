@@ -1,9 +1,17 @@
 # Cumasc Gael
 
-Cumasc Gael are an up and coming Celtic Bluegrass band, based in the North East of Ireland. 
-Recently the band have jumped from the coverband circuit to performing original songs and require an industry standard "Electronic Press Kit" to promote and exhibit themselves and their content.   
-Primarily functioning as a promotional tool for the band, this website will provide an insight into the groups musical and artistic identity along with their personality, creative output and style.
+Cumasc Gael are an up and coming celtic-bluegrass band based in the North East of Ireland. 
+
+Recently, the band have moved away from the Irish cover-band circuit to performing their own songs, both as a support band for similar established acts and also as a headline act themselves in some of Ireland's smaller yet renowned indie venues. 
+
+The band have since recieved multiple invitations to perform globally, and have recently conducted a small American tour which was extremely well recieved.
+
+Due to the growing popularity of the band, they now require an industry standard "Electronic Press Kit" to promote themselves and their exciting new content.   
+
+Functioning as a promotional tool for the band, this website will provide users an insight into the groups musical and artistic identity along with their personality, creative output and style.
+
 With its user centered design, functionality, and exclusive media content, Cumasc Gael aims to provide their target audience with a positive and satisfying user experience.
+
 The website will also serve to demonstrate the bands asthetic, musical abilities and stage footprint to A&R reps, booking agents and venues. 
 
 <img src="README_images/responsive_hero.png">  
@@ -293,9 +301,9 @@ Much like the wireframes developed during the planning process, the practice rep
 
     * Apple iPad Mini (5th gen) -- Safari and Chrome
 
-    Huawei P20 Pro Android Phone -- Chrome and Firfox
+    * Huawei P20 Pro Android Phone -- Chrome and Firfox
 
-    Samsung Galaxy Tab 7" -- Chrome
+    * Samsung Galaxy Tab 7" -- Chrome
 
     I also used Google Dev-tools to test the sites responsivity in real time and also emulate the sites appearance and responsivity across several other devices.
 
