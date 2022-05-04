@@ -98,13 +98,15 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
 - __Approach__
 
-    * The information will be provided to the user on a value scale with the most important content immediately visible.  
+    * The information will be provided to the user logically and informed by planning research.  
+
+    * The site will be created following the principles of user experience design.
 
     * The site will provide users links through which they can book tickets to see the band.
 
-    * The site will provide users with links to venue locations and the option to add show dates to google calender
+    * The site will provide users with links to venue locations and the option to add gig dates to google calender.
     
-    * The site will provide exclusive media content to all users such as Embedded audio files, youtube videos and photo gallery.
+    * The site will provide exclusive media content to all users such as embedded audio files, youtube videos and a photo gallery.
 
     * The content of the site will be inoffensive and accesible to all.
 
@@ -112,39 +114,42 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
     * The site will provide a method through which users can subscribe to a mailing list. 
 
-<img src="README_images/info_flow.png"> 
+
+<img src="assets/readme_images/info_flow.png">
 
 
-* ### Wireframes  
+- __Wireframes__ 
 
-    Desktop, tablet and mobile wireframes were created using Balsamiq software to give a general overview of the layout of the site and organise the content logically. An image is posted of one of the wireframes below. Links to each wireframe set are also available.
+    Desktop, tablet and mobile wireframes were created using Balsamiq software to give a general overview of the layout of the site and to help organise the content logically. An image is posted of one of the wireframes below. Links to each set of frames are also available.
 
-   <img src="README_images/wireframe.png">
+   <img src="assets/readme_images/wireframe.png">
 
-    * [Home page wireframes](README_images/wireframes/home_wf.pdf)
+    * [Home page wireframes](assets/readme_images/wireframes/home_wf.pdf)
 
-    * [Media page wireframes](README_images/wireframes/media_wf.pdf)
+    * [Media page wireframes](assets/readme_images/wireframes/media_wf.pdf)
     
-    * [About page wireframes](README_images/wireframes/about_wf.pdf)
+    * [About page wireframes](assets/readme_images/wireframes/about_wf.pdf)
 
-    * [Contact page wireframes](README_images/wireframes/contact_wf.pdf)
+    * [Contact page wireframes](assets/readme_images/wireframes/contact_wf.pdf)
 
     The site conforms to the general structure and scope of these wireframes yet deviates significantly with respect the colour scheme. 
 
-* ### Colour Scheme
+- __Color Scheme__
 
     * The predominant feature of the color scheme is undoubtebtly greyscale.
-    This stylistic choice and evoke's what the band calls its "Gilded Age" aesthetic, the gilded age being an era before color photography and where traditional music was the popular genre. 
+    This is a stylistic choice and evoke's what the band calls its "Gilded Age" aesthetic. (The gilded age being an era before color photography and where traditional and bluegrass music were popular genres of music.) 
 
-    * The orange in the color scheme is referenced from the fire footer padding image and again is suggestive of a rustic and simpler epoch.  
+    * The deep orange in the color scheme is referenced from the fire footer padding image and again is suggestive of a rustic and simpler epoch.  
     
     * The fire image was deliberatly included as flames and fire are also heavily featured in the band's upcoming music video for thier latest single.
 
-<img src="README_images/color_pallete.png">
+    * The light orange colour was implemented to improve color contrast for increased accessibility during testing. This is referenced in the testing section of this document.
 
-# Typography
+<img src="assets/readme_images/color_pal.png">
 
-* ### There are three fonts used throughout the site.
+- __Typography__
+
+*  There are three fonts used throughout the site.
 
     * Quintessential: A cursive font to envoke the band's aesthetic is used for section headings.
 
