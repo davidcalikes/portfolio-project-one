@@ -447,7 +447,7 @@ The live link can be found here - https://davidcalikes.github.io/portfolio-proje
 
     <img src="assets/readme_images/nexstar.png">
 
-* The songs featured in the audio section of this site were written and produced myself, David Calikes in 2016.
+* The songs featured in the audio section of this site were written and produced by myself, David Calikes in 2016.
 
 * The images featuring the band Cumasc Gael are used with the permission of David Calikes, Andrew Kelly and Liam Sheridan.
 
@@ -461,6 +461,48 @@ The live link can be found here - https://davidcalikes.github.io/portfolio-proje
     <img src="assets/readme_images/record.png">
 
 # Credits
+
+- __Content__
+
+    * The navigation section of this site is loosely based on a code snippet named "flex-test" provided to me by Code Institute mentor Richard Wells.
+
+    * The fade-in effect for the hero image was taken from this article on Stack Overflow: https://stackoverflow.com/questions/11679567/using-css-for-a-fade-in-effect-on-page-load
+
+    * The Sticky Navigation Menu is derived from snippets of code from this repository: https://github.com/iamshaunjp/CSS-Tips-and-Tricks/blob/04-css-only-dropdown-menu/css-only-dropdown/styles.css
+
+    * The form on the site is inspired by the Code Institute's Coders Coffeehouse code along project.
+
+    * The CSS styling used to hide the labels of the form inputs was derived from this tutorial: https://webaim.org/techniques/css/invisiblecontent/
+
+    * All icons used on the site were sourced from: https://fontawesome.com/search?m=freecom
+
+
+- __Thanks__
+
+    * Kasia Boguka: Code Institute Cohort Facilitator.
+
+    Kasia is seemingly always available to chat code and always leaves me feeling more confident about my progress as a developer whenever we talk. I'll never fully understand people who prefer Tea to Coffee but Kasia makes me at least want to try... ;)
+
+    * Richard Wells Code Institute Mentor.
+
+    Richard's expertise during this project was invaluable and my project benefitted greatly due to his mentorship. 
+    Richard was also extremely generous with his time and our online sessions would often overun. For this I am truly grateful.
+
+    * Helen Mill Code Institute Admissions Executive
+    
+    I count myself extremely fortunate to have been afforded the oppertunity to study with the Code Institute and would like to thank Helen for giving me the chance.
+
+    * Liam Sheridan and Andrew Kelly (Cumasc Gael)
+    
+    Our wee American adventure many moons ago was hugely enjoyable and I am priveliged to have worked with such outstanding musicians. 
+
+    * Michelle Calikes
+    
+    I am hugely thankful for the time my wife has afforded me to work on this project. Thank you Michelle from the bottom of my heart. 
+    
+
+
+
 
 
  
