@@ -6,26 +6,42 @@ Functioning as a promotional tool for the band, this website will help market th
 
 By presenting the artistic identity and personality of Cumasc Gael the site aims to provide users with a positive emotional experience underpinned by the groups creative output and style. 
 
-<img src="assets/readme_images/readme_resp.png">  
+<img src="assets/readme_images/readme_resp.png">
 
-# Planning & Development
+## Planning & Development
 
 
-* ### Business Strategy
+- __Business Strategy__
 
-    * Recent Developments
-    
      Recently, the band have moved away from the Irish cover-band circuit to performing their own songs, both as a support band for similar established acts and also as a headline act themselves in some of Ireland's smaller yet renowned indie venues.
  
      The band have since recieved multiple invitations to perform globally, and have recently conducted a small American tour which was extremely well recieved.
     
+     Due to the growing popularity of the band, they now require an industry standard "Electronic Press Kit" to promote themselves and their exciting new direction.
      
-     Due to the growing popularity of the band, they now require an industry standard "Electronic Press Kit" to promote themselves and their exciting new ≈direction.
+     Focusing on user centered design, functionality, and exclusive media content, Cumasc Gael aims to provide its specified target audience with a positive and satisfying user experience.
      
-     With its user centered design, functionality, and exclusive media content, Cumasc Gael aims to provide their target audience with a positive and satisfying user experience.
+- __Target Audience__
 
-     
+    Cumasc Gael are now aiming to share the same market space as similar acts within the indie/bluegrass genre.
+
+    <img src="assets/readme_images/demographic_one.png">
+    <img src="assets/readme_images/demographic_two.png">
+
+    By collating information gleaned from the targeted Facebook ad campaigns of these groups I have determined the following.
+
+    * Women account for 60% of the target audience
     
+    * 24-34 is the key age demographic of the target audience.
+
+    - __Targeting Key Demographics__
+
+    The site's content and how it is displayed is informed by this information. An example of this is presented below. 
+    
+    According to marketing website [socialtoaster.com](https://www.socialtoaster.com/marketing-to-a-female-demographic-6-tips/),
+     women, (as an audience) respond to positively to social stories that are seen to champion a cause. Women are also interested in compelling news items. 
+
+    Because of this data, I have included the a news section on the first page of the website featuring a positive social story, in which the band are seen to be championing a cause. 
 
 * ### User Stories
 
