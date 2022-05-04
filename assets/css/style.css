@@ -842,6 +842,11 @@ footer a {
                 }
 
 
+                footer.container {
+                    width: 80%;
+                    margin-left: 10%;
+                }
+
                 @media screen and (max-width: 500px) {
                     #audio ul {
                         font-size: 90%;
