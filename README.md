@@ -106,7 +106,7 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
     * The site will provide users links through which they can book tickets to see the band.
 
-    * The site will provide users with links to venue locations and the option to add gig dates to google calender.
+    * The site will provide users with links to venue locations and the option to add gig dates to Google calender.
     
     * The site will provide exclusive media content to all users such as embedded audio files, youtube videos and a photo gallery.
 
@@ -159,7 +159,7 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
    
     * Helvetica: A clear, complimentary font often partnered with Raleway is used for all other text.
 
-    The fonts were imported to the stylesheet via google fonts.
+    The fonts were imported to the stylesheet via Google fonts.
 
 
 # Features #
@@ -189,7 +189,7 @@ Below are some features the site currently has to offer and also some features w
 
     <img src="assets/readme_images/sticky_nav.png">
 
-* Hero Image 
+- __Hero Image__ 
 
     * The hero image addresses one of the main aims of the site as the members of the band are all immediately identifyable and the purpose of the site is instantly obvious to the user.
 
@@ -199,28 +199,30 @@ Below are some features the site currently has to offer and also some features w
     
     * The hero animation imitates a spotlight fading up before a performance. 
 
-    * Not only is the fade animation visually arresting but the subject matter of the picture immediately informs the user of the formation and visual style of the band whilst also informing musical style.
+    * Not only is the fade animation visually arresting but the subject matter of the picture immediately informs the user of the formation and style of the band.
 
  <img src="assets/readme_images/hero.png">
  
 
-* ### Upcoming Dates Section
+- __Upcoming Dates__ 
 
-    * The Band News section is located on the Home page.
+    * The Upcoming Dates section accomplishes a key aim of the site.
 
-    * The Upcoming Dates Section will inform users of the dates, locations and venues of the bands scheduled live performances.
+    * The Upcoming Dates section informs users of the dates, locations and venues of the bands scheduled live performances.
 
-    * The section includes a feature that allows users to add the dates directly to their personal google calender.
+    * The section includes a feature that allows users to add the dates directly to their personal Google calender.
     
-    * Users can also view the location of each venue via a link to google maps.
+    * Users can also view the location of each venue via a link to Google maps.
 
     * The section also provides users with a link to purchase tickets for each show.
 
-<img src="README_images/upcoming_dates.png">
+<img src="assets/readme_images/upcoming_dates.png">
 
-* ### Band News Section
+- __News Section__ 
 
     * The Band News section is located on the Home page.
+
+    * As mentioned in the planning section above, the news section is targeted towards a key demographic within the band's target audience. 
 
     * The Band News section provides users with news updates featuring the band and aims to generate a sense of community and connection by offering its users a positive and virtuos news stories about the band.   
 
@@ -232,11 +234,12 @@ Below are some features the site currently has to offer and also some features w
     
     * This section also provides vibrant, colorful headings to each news item. These headings serve as a buffer between each story providing users with a visual cue for the beginning of each news story.
 
-<img src="README_images/band_news.png"> 
+<img src="assets/readme_images/band_news.png">
 
-* ### Mailing List Section    
 
-    * The Mailing List Section is available across all four pages of the site.
+- __Mailing List__   
+
+    * The Mailing List section is available across all four pages of the site.
     
     * The Mailing List section invites users to fill out a simple form in order to recievee band news and gig updates via email. 
 
@@ -244,15 +247,15 @@ Below are some features the site currently has to offer and also some features w
     
     * The Mailing List also has a stylised heading providing a continuity of design across the home page and the website as a whole. 
 
-<img src="README_images/mailing_list.png">
+<img src="assets/readme_images/mailing_list.png">
 
-* ### Fire Image   
+- __Fire Image__  
 
     * The Fire Image acts as a visual indicator to signify the end of page specific content.
     
     * The Fire image is consistent with the style of the site and evokes the "Guilded Age" aesthetic of the group.
 
-<img src="README_images/fire_image.png">
+<img src="assets/readme_images/fire_image.png">
 
 * ### The Footer  
 
