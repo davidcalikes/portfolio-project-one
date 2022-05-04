@@ -6,20 +6,25 @@ Functioning as a promotional tool for the band, this website will help market th
 
 By presenting the artistic identity and personality of Cumasc Gael the site aims to provide users with a positive emotional experience underpinned by the groups creative output and style. 
 
-<img src="README_images/responsive_hero.png">  
+<img src="assets/readme_images/readme_resp.png">  
 
 # Planning & Development
 
 
-* ### Business Overview
+* ### Business Strategy
 
-    * Recently, the band have moved away from the Irish cover-band circuit to performing their own songs, both as a support band for similar established acts and also as a headline act themselves in some of Ireland's smaller yet renowned indie venues.
- 
-    * The band have since recieved multiple invitations to perform globally, and have recently conducted a small American tour which was extremely well recieved.
+    * Recent Developments
     
-    * With its user centered design, functionality, and exclusive media content, Cumasc Gael aims to provide their target audience with a positive and satisfying user experience.
+     Recently, the band have moved away from the Irish cover-band circuit to performing their own songs, both as a support band for similar established acts and also as a headline act themselves in some of Ireland's smaller yet renowned indie venues.
+ 
+     The band have since recieved multiple invitations to perform globally, and have recently conducted a small American tour which was extremely well recieved.
+    
+     
+     Due to the growing popularity of the band, they now require an industry standard "Electronic Press Kit" to promote themselves and their exciting new ≈direction.
+     
+     With its user centered design, functionality, and exclusive media content, Cumasc Gael aims to provide their target audience with a positive and satisfying user experience.
 
-    * Due to the growing popularity of the band, they now require an industry standard "Electronic Press Kit" to promote themselves and their exciting new ≈direction.
+     
     
 
 * ### User Stories
