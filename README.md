@@ -47,7 +47,9 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
     <img src="assets/readme_images/target_news.png">
 
-    The Media page features a youtube video which will appeal more to male members of the band's target audience as well the 24-34 key age demographic.  
+    The Media page features a youtube video which will appeal more to male members of the band's target audience as well the 24-34 key age demographic.
+
+    The general artistic style of the site, (Traditional/Modern) including typograhy, color scheme and imagery also targets the key age demographic. 
 
     <img src="assets/readme_images/target_men.png">
     <img src="assets/readme_images/target_age.png">
@@ -80,7 +82,7 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
 - __Site Objectives__
 
-    * To make the band and the purpose of the site immediatly recognisible.
+    * To make the band imediately recognisible and the purpose of the site obvious to the user.
     
     * To provide information to the band's target audience and industry professionals about upcoming dates.
 
@@ -160,41 +162,47 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
     The fonts were imported to the stylesheet via google fonts.
 
 
-# Features
+# Features #
+
 Below are some features the site currently has to offer and also some features which may be added in future.
 
 ## Existing Features ##
 
-* ### Navigation Bar
+- __Navigation Bar__
 
     * The navigation bar is fully responsive and uniform across all four pages of the site.
 
     * The section includes links to the Home, Media, About and Contact pages.
     * Each navigation link has a hover feature providing visual feedback for the user. Each page has a separate active link which provides the user instant feedback regarding their location on the site.
 
-<img src="README_images/navbar.png"> 
+<img src="assets/readme_images/nav_bar.png"> 
 
-* Main Image 
+- __Sticky Navigation Menu__   
 
-    * The Main Image is available accross all four pages of the site.
-
-    * The main image or hero image of the site includes a photograph of the band which fades in from black. 
-    
-    * Not only is the fade animation visually arresting but the subject matter of the picture immediately informs the user of the formation and visual style of the band whilst also being suggestive of musical genre.
-
-<img src="README_images/hero.png"> 
-
-* ### Sticky Navigation Menu   
-
-    * The Sticky Navigation Menu sticks to a fixed position at the top of the screen when a user scrolls past the hero image section.
+    * The Sticky Navigation Menu sticks to a fixed position at the top of the screen when a user scrolls below the navigation section.
     
     * This feature allows users to access any pages of the site without the requirement of scrolling back to the top of the page.
 
-    * The Sticky Navigation Menu takes up very little screen space and therefore doesnt obstruct any of the sites content.
+    * The Sticky Navigation Menu takes up very little screen space and therefore doesn't obstruct any of the site's content.
     
     * This feature is intuitively designed with a recognisable 'burger' style icon and is easily accessible for the user.
 
-    <img src="README_images/sticky_nav.png"> 
+    <img src="assets/readme_images/sticky_nav.png">
+
+* Hero Image 
+
+    * The hero image addresses one of the main aims of the site as the members of the band are all immediately identifyable and the purpose of the site is instantly obvious to the user.
+
+    * The hero image is available accross all four pages of the site.
+
+    * The hero image of the site includes a photograph of the band which fades in from black. 
+    
+    * The hero animation imitates a spotlight fading up before a performance. 
+
+    * Not only is the fade animation visually arresting but the subject matter of the picture immediately informs the user of the formation and visual style of the band whilst also informing musical style.
+
+ <img src="assets/readme_images/hero.png">
+ 
 
 * ### Upcoming Dates Section
 
