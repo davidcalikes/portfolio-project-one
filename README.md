@@ -382,20 +382,111 @@ Below are some features the site currently has to offer and also some features w
 
 <img src="assets/readme_images/dev_tools.png">
 
+- __Testing the Home page__
+
+I tested each individual link on the nav bar on the home page and each link brought me to the correct destination.
+
+I discovered a bug during testing which caused the About and Contact page links to move up one pixel to accomodate the hover class underline animation. I noticed that this was not the case with the nav links on the opposit side. 
+
+This appeared to be because of the assigned "Active class" indacator on the Home page. 
+
+I fixed this bug using CSS and a class selector called "Inactive Class" on the opposite side.
+
+I tested each link of the Sticky Nav Feature and found no errors.
+
+I then tested each link on the Upcoming Dates section.
+
+Each link opened in a new tab and to the correct URL.
+
+Each link in the News section was then tested and one link was found to be missing a blank_ attribute value. 
+
+This error was subsequently fixed.
+
+I checked the spelling and grammar of the text content in this section and found no errors.
+
+I tested the form element of this page and it functioned correctly.
+
+Each of the footer links was checked and returned no errors.
+
+- __Testing the Media page__
+
+I tested each individual link on the nav bar on the Media page and each link brought me to the correct destination.
+
+I tested each link of the Sticky Nav Feature and found no errors.
+
+I then tested the playback for both tracks on the audio section.
+
+The Audio Section functions correctly, however, a limitation of the embedded audio player means that Users must stop one track before playing another one. This is not an optimal user experience and I will look for better solutions to this issue as I continue the development of the site. 
+
+I tested the video in the video section of the site and the content displayed correctly.
+
+Each of the Gallery images loaded correctly.
+
+I checked the spelling and grammar of the text content in this section and found no errors.
+
+I tested the form element of this page and it functioned correctly.
+
+Each of the footer links was checked and returned no errors.
+
+- __Testing the About page__
+
+I tested each individual link on the nav bar on the About page and each link brought me to the correct destination.
+
+I tested each link of the Sticky Nav Feature and found no errors.
+
+I then tested the link on the lower-bio section and it functioned correctly.
+
+I checked the spelling and grammar of the text content in this section and found no errors.
+
+I tested the form element of this page and it functioned correctly.
+
+Each of the footer links was checked and returned no errors.
+
+- __Testing the Contact page__
+
+I tested each individual link on the nav bar on the Contact page and each link brought me to the correct destination.
+
+I tested each link of the Sticky Nav Feature and found no errors.
+
+I then tested the email links on the contact section and there were no errors returned.
+
+I checked the spelling and grammar of the text content in this section and found no errors.
+
+I tested the form element of this page and it functioned correctly.
+
+Each of the footer links was checked and returned no errors.
+
 - __Validator Testing__
 
-    * All pages of the site were passed through the W3C Validator and are error free.
- 
-    * The CSS stylesheet was passe through the Jigsaw Validator and returned no errors.
+I ran all of the sites pages through the W3C validator and each page returned multiple errors
 
-- __Bug Fixes__
+<img src="assets/readme_images/validation_errors.png">
 
-    * On some touchscreen devices an error occurs due to the hover psuedo class which fails to deselect a nav link when a user returns to the previous page via the back arrow. 
+I corrected the code and all four pages now return no errors.
+
+<img src="assets/readme_images/no_errors.png">
+
+
+- __ Other Bug Fixes__
+
+    * On some touchscreen devices an error occurs due to the hover psuedo class which fails to deselect a nav link when a user returns to the previous page via the back arrow.
+    
+    <br>
+
+    This bug was fixed by the inclusion of the "inactive" class selector and by setting the nav link elements to display=hidden on smaller screen sizes. 
     
     <br>
 
 
      <img src="assets/readme_images/bug.png">
+
+
+
+    * All pages of the site were passed through the W3C Validator and are error free.
+ 
+    * The CSS stylesheet was passe through the Jigsaw Validator and returned no errors.
+
+
 <br>
 
 
@@ -464,9 +555,9 @@ The live link can be found here - https://davidcalikes.github.io/portfolio-proje
 
 - __Content__
 
-    * The navigation section of this site is loosely based on a code snippet named "flex-test" provided to me by Code Institute mentor Richard Wells.
+    * The navigation section of this site is loosely based on a code snippet named "flex-test" provided to me by my Code Institute mentor Richard Wells.
 
-    * The fade-in effect for the hero image was taken from this article on Stack Overflow: https://stackoverflow.com/questions/11679567/using-css-for-a-fade-in-effect-on-page-load
+    * The fade-in effect for the hero image is from this article on Stack Overflow: https://stackoverflow.com/questions/11679567/using-css-for-a-fade-in-effect-on-page-load
 
     * The Sticky Navigation Menu is derived from snippets of code from this repository: https://github.com/iamshaunjp/CSS-Tips-and-Tricks/blob/04-css-only-dropdown-menu/css-only-dropdown/styles.css
 
@@ -481,24 +572,24 @@ The live link can be found here - https://davidcalikes.github.io/portfolio-proje
 
     * Kasia Boguka: Code Institute Cohort Facilitator.
 
-    Kasia is seemingly always available to chat code and always leaves me feeling more confident about my progress as a developer whenever we talk. I'll never fully understand people who prefer Tea to Coffee but Kasia makes me at least want to try... ;)
+        Kasia is seemingly always available to chat code and always leaves me feeling more confident about my progress as a developer whenever we talk. I'll never fully understand people who prefer Tea to Coffee but Kasia makes me at least want to try... ;)
 
     * Richard Wells Code Institute Mentor.
 
-    Richard's expertise during this project was invaluable and my project benefitted greatly due to his mentorship. 
-    Richard was also extremely generous with his time and our online sessions would often overun. For this I am truly grateful.
+        Richard's expertise during this project was invaluable and my project benefitted greatly due to his mentorship. 
+        Richard was also extremely generous with his time and our online sessions would often overun. For this I am truly grateful.
 
     * Helen Mill Code Institute Admissions Executive
     
-    I count myself extremely fortunate to have been afforded the oppertunity to study with the Code Institute and would like to thank Helen for giving me the chance.
+        I count myself extremely fortunate to have been afforded the oppertunity to study with the Code Institute and would like to thank Helen for giving me the chance.
 
     * Liam Sheridan and Andrew Kelly (Cumasc Gael)
     
-    Our wee American adventure many moons ago was hugely enjoyable and I am priveliged to have worked with such outstanding musicians. 
+        Our wee American adventure many moons ago was hugely enjoyable and I am priveliged to have worked with such outstanding musicians. 
 
     * Michelle Calikes
     
-    I am hugely thankful for the time my wife has afforded me to work on this project. Thank you Michelle from the bottom of my heart. 
+        I am hugely thankful for the time my wife has afforded me to work on this project. Thank you Michelle from the bottom of my heart. 
     
 
 
