@@ -414,54 +414,53 @@ Below are some features the site currently has to offer and also some features w
 The live link can be found here - https://davidcalikes.github.io/portfolio-project-one/index.html
 
    
-- __Languages__
+# Languages
 
-    * The coding languages used to create this site were HTML and CSS.
+* The coding languages used to create this site were HTML and CSS.
 
     <br>
 
-- __Software__
+# Software
 
-    * Gitpod to create, load and push my code to Github.
+* Gitpod to create, load and push my code to Github.
 
-    * Git, Gitpod and Github collectively as my version control system for the site.
+* Git, Gitpod and Github collectively as my version control system for the site.
     
-    * Adobe Photoshop CS6 to edit some images. I mainly used Photoshop to add greyscale to color photos and to create color gradient effects for background images.
+* Adobe Photoshop CS6 to edit some images. I mainly used Photoshop to add greyscale to color-photos and to create color gradient effects for background images.
 
-    * TinyPNG to compress web images.
+* TinyPNG to compress web images.
 
-    * Fotojet online image editor to add polaroid style borders to my image files, providing a consistant style across the site.
+<img src="assets/readme_images/tiny_.png">
 
-    <img src="assets/readme_images/fotojet.png">
+* Fotojet online image editor to add polaroid style borders to my image files, providing a consistant style across the site.
 
-    * I Logic Pro X to produce and master the mp3 files.
+<img src="assets/readme_images/fotojet.png">
 
-    * TinyPNG to compress web images.
-
-
-
+* Logic Pro X to produce and master the mp3 files.
     
+    <img src="assets/readme_images/logic_pro.png">
 
 
- 
-    
-    
-    * As a user, I want access to exclusive media content.
+# Media
 
-    * As a user, I want to have a positive emotional experience.
+* The youtube video provided is used with the expressed written permission of Nexstar media. (formerly Fox46)
 
+    <img src="assets/readme_images/nexstar.png">
 
-* ### Content
+* The songs featured in the audio section of this site were written and produced myself, David Calikes in 2016.
 
-    * As a user, I want to find out more about Cumasc Gael.
- 
-    * As a User, I want to find the most relevant information quickly and intuitivly.
-    
-    * As a user, I want access to exclusive media content.
+* The images featuring the band Cumasc Gael are used with the permission of David Calikes, Andrew Kelly and Liam Sheridan.
 
-    * As a user, I want to have a positive emotional experience.
+* The logo image of the band Cumasc Gael was designed by myself David Calikes in 2016
 
-* ### Media
+* The following images were aquired from public domain image site Pexels.com
+
+    <img src="assets/readme_images/railway.png">
+    <img src="assets/readme_images/fiddle.png">
+    <img src="assets/readme_images/fire.png">
+    <img src="assets/readme_images/record.png">
+
+# Credits
 
 
  
