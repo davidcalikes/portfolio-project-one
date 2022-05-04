@@ -4,7 +4,7 @@ Cumasc Gael are an emerging celtic-bluegrass band based in the North East of Ire
 
 Functioning as a promotional tool for the band, this website will help market the music and image of Cumasc Gael to their specified target audience.
 
-By presenting the artistic identity and personality of Cumasc Gael the site aims to provide users with a positive emotional experience underpinned by the groups creative output and style. 
+By presenting the artistic identity and personality of Cumasc Gael the site aims to provide users with a positive emotional experience underpinned by the band's creative output and style. 
 
 <img src="assets/readme_images/readme_resp.png">
 
@@ -36,7 +36,7 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
     - __Targeting Key Demographics__
 
-    The site's content and how it is displayed is informed by the outcomes of my reasearch . An example of this is presented below. 
+    The site's content and how it is displayed is informed by the outcomes of my research . An example of this is presented below. 
     
     According to marketing website [socialtoaster.com](https://www.socialtoaster.com/marketing-to-a-female-demographic-6-tips/),
      women (as an audience) respond positively to social stories that are seen to champion a cause. Women are also interested in compelling news items. 
@@ -46,6 +46,27 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
     In light of this data, (and because women make up the majority of the site's target audience) I have included a news section on the first page of the website featuring a positive social story, in which the band are clearly seen to be championing a worthy cause. 
 
     <img src="assets/readme_images/target_news.png">
+
+    The Media page features a youtube video which will appeal more to male members of the band's target audience as well the 24-34 key age demographic.  
+
+    <img src="assets/readme_images/target_men.png">
+    <img src="assets/readme_images/target_age.png">
+
+- __Target Audiences Summary__
+    
+    * Users who are fans of Cumasc Gael.
+
+    * Users who are fans of Traditional Celtic and or Bluegrass music.
+
+    * Users who are fans of Indie music
+
+    * Users who are looking for exclusive content
+    
+    * Users who regularly listen to music online.
+
+    * Users who work within the music industry.
+
+
 
 * ### User Stories
 
