@@ -1,22 +1,26 @@
 # Cumasc Gael
 
-Cumasc Gael are an up and coming celtic-bluegrass band based in the North East of Ireland. 
+Cumasc Gael are an emerging celtic-bluegrass band based in the North East of Ireland. 
 
-Recently, the band have moved away from the Irish cover-band circuit to performing their own songs, both as a support band for similar established acts and also as a headline act themselves in some of Ireland's smaller yet renowned indie venues. 
+Functioning as a promotional tool for the band, this website will help market the music and image of Cumasc Gael to their specified target audience.
 
-The band have since recieved multiple invitations to perform globally, and have recently conducted a small American tour which was extremely well recieved.
-
-Due to the growing popularity of the band, they now require an industry standard "Electronic Press Kit" to promote themselves and their exciting new ≈direction.   
-
-Functioning as a promotional tool for the band, this website will provide users an insight into the groups musical and artistic identity along with their personality, creative output and style.
-
-With its user centered design, functionality, and exclusive media content, Cumasc Gael aims to provide their target audience with a positive and satisfying user experience.
-
-The website will also serve to demonstrate the bands asthetic, musical abilities and stage footprint to A&R reps, booking agents and venues. 
+By presenting the artistic identity and personality of Cumasc Gael the site aims to provide users with a positive emotional experience underpinned by the groups creative output and style. 
 
 <img src="README_images/responsive_hero.png">  
 
 # Planning & Development
+
+
+* ### Business Overview
+
+    * Recently, the band have moved away from the Irish cover-band circuit to performing their own songs, both as a support band for similar established acts and also as a headline act themselves in some of Ireland's smaller yet renowned indie venues.
+ 
+    * The band have since recieved multiple invitations to perform globally, and have recently conducted a small American tour which was extremely well recieved.
+    
+    * With its user centered design, functionality, and exclusive media content, Cumasc Gael aims to provide their target audience with a positive and satisfying user experience.
+
+    * Due to the growing popularity of the band, they now require an industry standard "Electronic Press Kit" to promote themselves and their exciting new ≈direction.
+    
 
 * ### User Stories
 
