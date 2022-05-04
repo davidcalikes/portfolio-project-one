@@ -36,7 +36,7 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
     - __Targeting Key Demographics__
 
-    The site's content and how it is displayed is informed by the outcomes of my research . An example of this is presented below. 
+    The site's content and how it is displayed is informed by the outcomes of the research mentioned above. An example of this is presented below. 
     
     According to marketing website [socialtoaster.com](https://www.socialtoaster.com/marketing-to-a-female-demographic-6-tips/),
      women (as an audience) respond positively to social stories that are seen to champion a cause. Women are also interested in compelling news items. 
@@ -66,9 +66,7 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
     * Users who work within the music industry.
 
-
-
-* ### User Stories
+- __User Stories__
 
     * As a user, I want to find out more about Cumasc Gael.
  
@@ -80,17 +78,25 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
     
     * As a user, I want to sign up to a mailing list to stay informed.
 
-* ### Site Objectives
+- __Site Objectives__
 
-    * The Site aims to provide information about Cumasc Gael to a general audience including fans of Traditional and Bluegrass music, but also interested industry professionals.
-
-    * The Site Aims to act as an Electroninc Press Kit, for professional use within the music industry.
+    * To make the band and the purpose of the site immediatly recognisible.
     
-    * Another aim of this site, is to provide exclusive media content to the user.
+    * To provide information to the band's target audience and industry professionals about upcoming dates.
 
-    * The site also aims to increase the fanbase of Cumasc Gael by providing users with a positive emotional experience and a mailing list subscription option.
+    * To communicate the ethos of the band.
+    
+    * To promote the music of the band.
+    
+    * To act as an EPK (electroninc press kit), for professional reference within the music industry.
+    
+    * To provide exclusive media content to the user.
 
-* ### Approach
+    * To increase the fanbase of Cumasc Gael by providing users with a positive emotional experience.
+
+    * To provide users with the ability to subscribe to a mailing list. 
+
+- __Approach__
 
     * The information will be provided to the user on a value scale with the most important content immediately visible.  
 
