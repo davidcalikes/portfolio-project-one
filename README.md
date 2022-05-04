@@ -263,9 +263,9 @@ Below are some features the site currently has to offer and also some features w
 
     * The Footer section of the site provides links to the band's social media pages. The links all open in a new tab and contain descriptive title attributes for accessibility. 
     
-    * The social media links provided will visually propmt users to visit the bands social media pages with the aim of increasing the bands online following. 
+    * The social media links provided will visually prompt users to visit the bands social media pages with the aim of increasing the bands online following. 
 
-<img src="README_images/footer.png">
+<img src="assets/readme_images/footer.png">
 
 * ### The Audio Section 
 
