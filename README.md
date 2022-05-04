@@ -36,7 +36,7 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
 - __Targeting Key Demographics__
 
-    The site's content and how it is displayed is informed by the outcomes of the research mentioned above. I have presented one example of this is presented below. 
+    The site's content and how it is displayed is informed by the outcomes of the research mentioned above. I have presented one example of this below. 
     
     According to marketing website [socialtoaster.com](https://www.socialtoaster.com/marketing-to-a-female-demographic-6-tips/),
      women (as an audience) respond positively to social stories that are seen to champion a cause. Women are also interested in compelling news items. 
@@ -62,6 +62,8 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
     * Users who are fans of Indie music
 
+    * Users who value worthy causes
+
     * Users who are looking for exclusive content
     
     * Users who regularly listen to music online.
@@ -86,7 +88,7 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
     
     * To provide information to the band's target audience and industry professionals about upcoming dates.
 
-    * To communicate the ethos of the band.
+    * To communicate a charitible band ethos.
     
     * To promote the music of the band.
     
@@ -108,7 +110,7 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
     * The site will provide users with links to venue locations and the option to add gig dates to Google calender.
     
-    * The site will provide exclusive media content to all users such as embedded audio files, youtube videos and a photo gallery.
+    * The site will provide users with access to exclusive media content such as embedded audio files, youtube videos and a photo gallery.
 
     * The content of the site will be inoffensive and accesible to all.
 
@@ -134,7 +136,7 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
     * [Contact page wireframes](assets/readme_images/wireframes/contact_wf.pdf)
 
-    The site conforms to the general structure and scope of these wireframes yet deviates significantly with to respect the colour scheme. 
+    The site conforms to the general structure and scope of these wireframes yet deviates significantly with respect to the colour scheme. 
 
 - __Color Scheme__
 
@@ -465,6 +467,8 @@ I ran all of the sites pages through the W3C validator and each page returned mu
 I corrected the code and all four pages now return no errors.
 
 <img src="assets/readme_images/no_errors.png">
+
+
 
 
 - __ Other Bug Fixes__
