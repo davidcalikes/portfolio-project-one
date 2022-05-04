@@ -36,20 +36,16 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
     - __Targeting Key Demographics__
 
-    The site's content and how it is displayed is informed by this information. An example of this is presented below. 
+    The site's content and how it is displayed is informed by the outcomes of my reasearch . An example of this is presented below. 
     
     According to marketing website [socialtoaster.com](https://www.socialtoaster.com/marketing-to-a-female-demographic-6-tips/),
-     women (as an audience) respond to positively to social stories that are seen to champion a cause. Women are also interested in compelling news items. 
+     women (as an audience) respond positively to social stories that are seen to champion a cause. Women are also interested in compelling news items. 
 
      <img src="assets/readme_images/target_demo.png">
 
-    Because of this data, and because women make up the majority of the site's target audience, I have included a news section on the first page of the website featuring a positive social story, in which the band are clearly seen to be championing a cause. 
+    In light of this data, (and because women make up the majority of the site's target audience) I have included a news section on the first page of the website featuring a positive social story, in which the band are clearly seen to be championing a worthy cause. 
 
     <img src="assets/readme_images/target_news.png">
-
-
-
-
 
 * ### User Stories
 
