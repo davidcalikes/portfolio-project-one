@@ -30,13 +30,13 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
     By collating information gleaned from the targeted Facebook ad campaigns of these groups I have determined the following.
 
-    * Women account for 60% of the target audience
+    * Women account for approximately 60% of the target audience
     
     * 24-34 is the key age demographic of the target audience.
 
-    - __Targeting Key Demographics__
+- __Targeting Key Demographics__
 
-    The site's content and how it is displayed is informed by the outcomes of the research mentioned above. An example of this is presented below. 
+    The site's content and how it is displayed is informed by the outcomes of the research mentioned above. I have presented one example of this is presented below. 
     
     According to marketing website [socialtoaster.com](https://www.socialtoaster.com/marketing-to-a-female-demographic-6-tips/),
      women (as an audience) respond positively to social stories that are seen to champion a cause. Women are also interested in compelling news items. 
@@ -47,7 +47,7 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
     <img src="assets/readme_images/target_news.png">
 
-    The Media page features a youtube video which will appeal more to male members of the band's target audience as well the 24-34 key age demographic.
+    Another way I have implemented this data is by featuring a youtube video on the Media (second) page of the site, which will appeal more to male members of the band's target audience as well the 24-34 key age demographic.
 
     The general artistic style of the site, (Traditional/Modern) including typograhy, color scheme and imagery also targets the key age demographic. 
 
@@ -134,7 +134,7 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
     * [Contact page wireframes](assets/readme_images/wireframes/contact_wf.pdf)
 
-    The site conforms to the general structure and scope of these wireframes yet deviates significantly with respect the colour scheme. 
+    The site conforms to the general structure and scope of these wireframes yet deviates significantly with to respect the colour scheme. 
 
 - __Color Scheme__
 
@@ -346,27 +346,26 @@ Below are some features the site currently has to offer and also some features w
 
 - __Possible Future Features__
 
-    * In future the site aims to include a web store for users to purchase content and merchandise.
-    
+     * The site aims to incorporate Javascript elements in the near future to make the site more interactive. This could include a "virtual fan wall" where registered users could leave graffiti style comments as a modern alternative to outdated user interactions such as fan mail.
+     
+     * In future, the site will include a web store for users to purchase content and merchandise. The store will be designed with reference to the 'three click rule.'
+
     * The site aims to provide a video landing image in the future.
+    
+    <br>
+
 
     # Testing
 
-    * ### Development Testing
-
-    As this was my first project as a developer, I decided to create a practice repository to test how each part of my code would respond after deployment to several different browsers, devices and operating systems.  
-
-    Initially I was experimenting with how to best use a flexible box model to replicate the look and responsivity of my wireframes. 
-
-    The link to my practice repository is available below.
-
-    * [Cumasc Gael -- Practice Repository](https://github.com/davidcalikes/flex-test)
-
-Much like the wireframes developed during the planning process, the practice repository differs in many areas from the final project. These changes were made not only to improve the look and consistency of the site, but to reduce screen loading times and optimise user experience. I also managed to achieve similar, if not improved results and performance using significantly less lines of code as I began to progress and learn as a developer.  
-
-
-* ### Testing Technologies 
+- __Testing During Development__
+ 
+    * Testing Technologies 
+    
+    <br>
+    
     I rigorously tested the site during the development phase using using the following:
+
+    
     * Mac Pro with a 21" Apple Cinema display -- Safari, Chrome and Firefox
 
     * Macbook pro 13" -- Safari, Chrome and Firefox
@@ -381,48 +380,71 @@ Much like the wireframes developed during the planning process, the practice rep
 
     I also used Google Dev-tools to test the sites responsivity in real time and also emulate the sites appearance and responsivity across several other devices.
 
-    <img src="README_images/dev_tools.png">
+<img src="assets/readme_images/dev_tools.png">
 
-* ### Validator Testing
+- __Validator Testing__
 
     * All pages of the site were passed through the W3C Validator and are error free.
  
     * The CSS stylesheet was passe through the Jigsaw Validator and returned no errors.
 
-* ### Unfixed Bugs
+- __Bug Fixes__
 
-    * On some touchscreen devices an error occurs due to the hover psuedo class which fails to deselect a nav link when a user returns to the previous page via the back arrow.
-
-     <img src="README_images/bug.png">
-
-
-* ### Deployment
-
-    * As a user, I want to find out more about Cumasc Gael.
- 
-    * As a User, I want to find the most relevant information quickly and intuitivly.
+    * On some touchscreen devices an error occurs due to the hover psuedo class which fails to deselect a nav link when a user returns to the previous page via the back arrow. 
     
-    * As a user, I want access to exclusive media content.
+    <br>
 
-    * As a user, I want to have a positive emotional experience.
+
+     <img src="assets/readme_images/bug.png">
+<br>
+
+
+ 
+ Although there are no known bugs present within the site, I have left this section of the README file for cataloguing and fixing future bugs.
+
+
+# Deployment
+
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+    * From this project's repository, navigate to the settings tab
+    * From the left hand menu, select pages.
+    * From the source section drop-down menu, select the Main Branch.
+    * Once the main branch has been selected, the page will refresh and provide a link to the live project. 
+
+The live link can be found here - https://davidcalikes.github.io/portfolio-project-one/index.html
 
    
+- __Languages__
 
-* ### Languages
+    * The coding languages used to create this site were HTML and CSS.
 
-    * As a user, I want to find out more about Cumasc Gael.
- 
-    * As a User, I want to find the most relevant information quickly and intuitivly.
+    <br>
+
+- __Software__
+
+    * Gitpod to create, load and push my code to Github.
+
+    * Git, Gitpod and Github collectively as my version control system for the site.
     
-    * As a user, I want access to exclusive media content.
+    * Adobe Photoshop CS6 to edit some images. I mainly used Photoshop to add greyscale to color photos and to create color gradient effects for background images.
 
-    * As a user, I want to have a positive emotional experience.
+    * TinyPNG to compress web images.
 
-    * ### Software
+    * Fotojet online image editor to add polaroid style borders to my image files, providing a consistant style across the site.
 
-    * As a user, I want to find out more about Cumasc Gael.
+    <img src="assets/readme_images/fotojet.png">
+
+    * I Logic Pro X to produce and master the mp3 files.
+
+    * TinyPNG to compress web images.
+
+
+
+    
+
+
  
-    * As a User, I want to find the most relevant information quickly and intuitivly.
+    
     
     * As a user, I want access to exclusive media content.
 
