@@ -257,7 +257,7 @@ Below are some features the site currently has to offer and also some features w
 
 <img src="assets/readme_images/fire_image.png">
 
-* ### The Footer  
+- __The Footer__   
 
     * The Footer is located at the bottom of all four pages of the site.
 
@@ -267,7 +267,7 @@ Below are some features the site currently has to offer and also some features w
 
 <img src="assets/readme_images/footer.png">
 
-* ### The Audio Section 
+- __Audio Section__  
 
     * The Audio section is located on the Media page.
 
@@ -279,9 +279,9 @@ Below are some features the site currently has to offer and also some features w
 
     * The songs in the audio section are relevant to the site's subject matter and consistent in style and design with other media and text across the site.
 
-    <img src="README_images/audio.png">
+    <img src="assets/readme_images/audio.png">
 
-    * ### The Video Section 
+    - __Video Section__
 
     * The Video section is located on the Media page.
 
@@ -291,10 +291,12 @@ Below are some features the site currently has to offer and also some features w
 
     * The video section provides the user with content relevant to the subject matter of the site.
 
-    <img src="README_images/video.png">
+    * The video is contained within an iframe and is linked to the site via youtube.com.
+
+    <img src="assets/readme_images/video.png">
 
 
-* ### The Gallery
+- __The Gallery__
 
     * The Gallery section is located on the Media page.
 
@@ -306,9 +308,9 @@ Below are some features the site currently has to offer and also some features w
 
      * The section is organised into three different categories, each clearly separated by a distinctive, stylised heading that's consistent in style with the rest of the site. 
 
-    <img src="README_images/gallery.png">
+    <img src="assets/readme_images/gallery.png">
 
-    * ### Upper Bigraphy Section
+    - __Upper Biography Section__
 
     * The Upper Biography section is located on the about page.
 
@@ -316,9 +318,9 @@ Below are some features the site currently has to offer and also some features w
     
     * The content in this section provides users with a simple and interesting overview of the band. Succinct and informative. the compressed nature of this section engages users and encourages scrolling.
 
-    <img src="README_images/upper-bio.png">
+    <img src="assets/readme_images/upper_bio.png">
 
-     * ### Lower Bigraphy Section
+     - __Lower Biography Section__
 
     * The Lower Biography section is located on the about page. 
 
@@ -330,9 +332,9 @@ Below are some features the site currently has to offer and also some features w
 
     * The section is again organised into different elements explaining the past present and future direction of the band, with each element clearly separated by a distinctive, stylised heading that's consistent in style with the rest of the site. 
 
-    <img src="README_images/lower-bio.png">
+    <img src="assets/readme_images/lower_bio.png">
 
-    * ### Contact section
+   - __Contact Section__
 
     * The Contact section is located in the Contact page
     
@@ -340,9 +342,9 @@ Below are some features the site currently has to offer and also some features w
     
     * The Contact section provides direct links to email the band's tour and managment companies.
 
-    <img src="README_images/lower-bio.png">
+    <img src="assets/readme_images/contact.png">
 
-    * ### Possible Future Features
+- __Possible Future Features__
 
     * In future the site aims to include a web store for users to purchase content and merchandise.
     
