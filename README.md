@@ -464,11 +464,33 @@ I ran all of the sites pages through the W3C validator and each page returned mu
 
 <img src="assets/readme_images/validation_errors.png">
 
-I corrected the code and all four pages now return no errors.
+I corrected the code and all four pages now return no html errors.
 
 <img src="assets/readme_images/no_errors.png">
 
+* The CSS stylesheet was passe through the Jigsaw Validator and returned no errors.
 
+<img src="assets/readme_images/css_val.png">
+
+- __Performance Testing__
+
+I used the Lighthouse to check site performance. The site performs well in most areas however the accesibility score was less than optimal.
+
+I then used the WCAG color contrast checker tool and it returned contrast errors with the deep orange color in the site's color scheme returning a contrast ratio of less than 3.0.
+
+<img src="assets/readme_images/test_aa.png">
+
+This was addressed by implementing a brighter orange color for text elements and links within the site. 
+
+<img src="assets/readme_images/test_contrast.png">
+
+The site now returns just one contrasting error which is associated with the gradient I have used on the site's sub-headings. I have chosen to ignore this contrast warning as the image provided shows there is no visibility issue whatsoever and the error message appears to be simply a limitation of the WCAG's abilities.
+
+<img src="assets/readme_images/limit.png">
+
+The site now achieves a 100% accesibility rating when performance is tested through lighthouse.
+
+<img src="assets/readme_images/lighthouse.png">
 
 
 - __ Other Bug Fixes__
@@ -484,11 +506,6 @@ I corrected the code and all four pages now return no errors.
 
      <img src="assets/readme_images/bug.png">
 
-
-
-    * All pages of the site were passed through the W3C Validator and are error free.
- 
-    * The CSS stylesheet was passe through the Jigsaw Validator and returned no errors.
 
 
 <br>
