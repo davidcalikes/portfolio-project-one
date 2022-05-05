@@ -284,6 +284,8 @@ Below are some features the site currently has to offer and also some features w
     * The songs in the audio section are relevant to the site's subject matter and consistent in style and design with other media and text across the site.
 
     <img src="assets/readme_images/audio.png">
+    
+    <br>
 
     - __Video Section__
 
@@ -291,7 +293,7 @@ Below are some features the site currently has to offer and also some features w
 
     * The video section provides users with the option to view video content featuring the band. 
     
-    * The video in this section does not play automatically to enhance the user experience.
+    * The video in this section does not play automatically to enhance user experience.
 
     * The video section provides the user with content relevant to the subject matter of the site.
 
@@ -313,6 +315,8 @@ Below are some features the site currently has to offer and also some features w
      * The section is organised into three different categories, each clearly separated by a distinctive, stylised heading that's consistent in style with the rest of the site. 
 
     <img src="assets/readme_images/gallery.png">
+    
+    <br>
 
     - __Upper Biography Section__
 
@@ -323,6 +327,8 @@ Below are some features the site currently has to offer and also some features w
     * The content in this section provides users with a simple and interesting overview of the band. Succinct and informative. the compressed nature of this section engages users and encourages scrolling.
 
     <img src="assets/readme_images/upper_bio.png">
+    
+    <br>
 
      - __Lower Biography Section__
 
@@ -347,6 +353,8 @@ Below are some features the site currently has to offer and also some features w
     * The Contact section provides direct links to email the band's tour and managment companies.
 
     <img src="assets/readme_images/contact.png">
+
+    <br>
 
 - __Possible Future Features__
 
@@ -390,7 +398,7 @@ Below are some features the site currently has to offer and also some features w
 
 I tested each individual link on the nav bar on the home page and each link brought me to the correct destination.
 
-I discovered a bug during testing which caused the About and Contact page links to move up one pixel to accomodate the hover class underline animation. I noticed that this was not the case with the nav links on the opposit side. 
+I discovered a bug during testing which caused the About and Contact page links to move up one pixel to accomodate the hover class underline animation. I noticed that this was not the case with the nav links on the opposite side. 
 
 This appeared to be because of the assigned "Active class" indacator on the Home page. 
 
@@ -422,7 +430,7 @@ I tested each link of the Sticky Nav Feature and found no errors.
 
 I then tested the playback for both tracks on the audio section.
 
-The Audio Section functions correctly, however, a limitation of the embedded audio player means that Users must stop one track before playing another one. This is not an optimal user experience and I will look for better solutions to this issue as I continue the development of the site. 
+The Audio Section functions correctly however, a limitation of the embedded audio player means that users must stop one track before playing another one. This is not an optimal user experience and I will look for better solutions to this issue as I continue the development of the site. 
 
 I tested the video in the video section of the site and the content displayed correctly.
 
@@ -464,7 +472,7 @@ Each of the footer links was checked and returned no errors.
 
 - __Validator Testing__
 
-I ran all of the sites pages through the W3C validator and each page returned multiple errors
+I ran all of the sites pages through the W3C validator and each page returned multiple errors.
 
 <img src="assets/readme_images/validation_errors.png">
 
@@ -472,15 +480,18 @@ I corrected the code and all four pages now return no html errors.
 
 <img src="assets/readme_images/no_errors.png">
 
-* The CSS stylesheet was passe through the Jigsaw Validator and returned no errors.
+* The CSS stylesheet was passed through the Jigsaw Validator and returned no errors.
 
 <img src="assets/readme_images/css_val.png">
 
+<br>
+
+
 - __Performance Testing__
 
-I used the Lighthouse to check site performance. The site performs well in most areas however the accesibility score was less than optimal.
+    I used Lighthouse to check site performance. The site performs well in most areas however the accesibility score was less than optimal.
 
-I then used the WCAG color contrast checker tool and it returned contrast errors with the deep orange color in the site's color scheme returning a contrast ratio of less than 3.0.
+    I then used the WCAG color contrast checker tool and it returned contrast errors with the deep orange color in the site's color scheme returning a contrast ratio of less than 3.0.
 
 <img src="assets/readme_images/test_aa.png">
 
