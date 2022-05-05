@@ -509,7 +509,7 @@ The site now achieves a 100% accesibility rating when performance is tested thro
 
 <br>
 
-- __ Other Bug Fixes__
+- __Other Bug Fixes__
 
     * On some touchscreen devices an error occurs due to the hover psuedo class which fails to deselect a nav link when a user returns to the previous page via the back arrow.
     
@@ -526,7 +526,7 @@ The site now achieves a 100% accesibility rating when performance is tested thro
 
 <br>
 
-
+- __Unfixed Bugs__
  
  Although there are no known bugs present within the site, I have left this section of the README file for cataloguing and fixing future bugs.
 
