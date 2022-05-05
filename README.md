@@ -28,9 +28,9 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
     <img src="assets/readme_images/demographic_one.png">
     <img src="assets/readme_images/demographic_two.png">
 
-    By collating information gleaned from the targeted Facebook ad campaigns of these groups I have determined the following.
+    By collating information gleaned from the targeted Facebook ad campaigns of these groups I have determined the following:
 
-    * Women account for approximately 60% of the target audience
+    * Women account for approximately 60% of the band's target audience
     
     * 24-34 is the key age demographic of the target audience.
 
@@ -60,11 +60,11 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
     * Users who are fans of Traditional Celtic and or Bluegrass music.
 
-    * Users who are fans of Indie music
+    * Users who are fans of Indie music.
 
-    * Users who value worthy causes
+    * Users who value worthy causes.
 
-    * Users who are looking for exclusive content
+    * Users who are looking for exclusive content.
     
     * Users who regularly listen to music online.
 
@@ -74,7 +74,7 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
     * As a user, I want to find out more about Cumasc Gael.
  
-    * As a User, I want to find the most relevant information quickly and intuitivly.
+    * As a User, I want to find the most relevant information quickly and effortlessly.
     
     * As a user, I want access to exclusive media content.
 
@@ -84,7 +84,9 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
 - __Site Objectives__
 
-    * To make the band imediately recognisible and the purpose of the site obvious to the user.
+    * To make the band imediately recognisible. 
+    
+    * To make the purpose of the site obvious to the user.
     
     * To provide information to the band's target audience and industry professionals about upcoming dates.
 
@@ -108,7 +110,7 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
     * The site will provide users links through which they can book tickets to see the band.
 
-    * The site will provide users with links to venue locations and the option to add gig dates to Google calender.
+    * The site will provide users with map links to venue locations and the option to add gig dates to Google calender.
     
     * The site will provide users with access to exclusive media content such as embedded audio files, youtube videos and a photo gallery.
 
@@ -392,7 +394,9 @@ I discovered a bug during testing which caused the About and Contact page links 
 
 This appeared to be because of the assigned "Active class" indacator on the Home page. 
 
-I fixed this bug using CSS and a class selector called "Inactive Class" on the opposite side.
+I fixed this bug using CSS and a class selector called "Inactive Class" on the opposite side. 
+
+I will continue to look for an alternative solution to this problem as the development of the site continues.
 
 I tested each link of the Sticky Nav Feature and found no errors.
 
@@ -552,6 +556,8 @@ The live link can be found here - https://davidcalikes.github.io/portfolio-proje
 * Logic Pro X to produce and master the mp3 files.
     
     <img src="assets/readme_images/logic_pro.png">
+
+* Balsamiq wireframes software.
 
 
 # Media
