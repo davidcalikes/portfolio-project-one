@@ -8,6 +8,32 @@ By presenting the artistic identity and personality of Cumasc Gael the site aims
 
 <img src="assets/readme_images/readme_resp.png">
 
+## Contents
+[Planning & Development](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#planning--development)
+
+[Features](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#features)
+
+[Testing](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#testing)
+
+[Deployment](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#deployment)
+
+[Languages](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#languages)
+
+[Software](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#software)
+
+[Media](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#media)
+
+[Credits](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#credits)
+
+
+
+
+
+
+
+
+
+
 ## Planning & Development
 
 
