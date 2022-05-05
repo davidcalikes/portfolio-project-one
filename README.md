@@ -604,7 +604,9 @@ The live link can be found here - https://davidcalikes.github.io/portfolio-proje
 
     * The CSS styling used to hide the labels of the form inputs was derived from this tutorial: https://webaim.org/techniques/css/invisiblecontent/
 
-    * All icons used on the site were sourced from: https://fontawesome.com/search?m=freecom
+    * All text icons used on the site were sourced from: https://fontawesome.com/search?m=freecom
+
+    * The link to the favicon icon on all four pages is from: https://favicon.io/
 
 
 - __Thanks__
