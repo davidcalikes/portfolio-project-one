@@ -552,7 +552,7 @@ The live link can be found here - https://davidcalikes.github.io/portfolio-proje
 
 * Gitpod to create, load and push my code to Github.
 
-* Git, Gitpod and Github collectively as my version control system for the site.
+* Git, (Gitpod and Github) as my version control system for the site.
     
 * Adobe Photoshop CS6 to edit some images. I mainly used Photoshop to add greyscale to color-photos and to create color gradient effects for background images.
 
@@ -613,14 +613,14 @@ The live link can be found here - https://davidcalikes.github.io/portfolio-proje
 
         Kasia is seemingly always available to chat code and always leaves me feeling more confident about my progress as a developer whenever we talk. I'll never fully understand people who prefer Tea to Coffee but Kasia makes me at least want to try... ;)
 
-    * Richard Wells Code Institute Mentor.
+    * Richard Wells: Code Institute Mentor.
 
         Richard's expertise during this project was invaluable and my project benefitted greatly due to his mentorship. 
         Richard was also extremely generous with his time and our online sessions would often overun. For this I am truly grateful.
 
-    * Helen Mill Code Institute Admissions Executive
+    * Helen Mill: Code Institute Admissions Executive
     
-        I count myself extremely fortunate to have been afforded the oppertunity to study with the Code Institute and would like to thank Helen for giving me the chance.
+        I count myself extremely fortunate to have been afforded the opportunity to study with the Code Institute and would like to thank Helen for giving me the chance.
 
     * Liam Sheridan and Andrew Kelly (Cumasc Gael)
     
