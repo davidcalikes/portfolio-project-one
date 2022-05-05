@@ -492,6 +492,7 @@ The site now achieves a 100% accesibility rating when performance is tested thro
 
 <img src="assets/readme_images/lighthouse.png">
 
+<br>
 
 - __ Other Bug Fixes__
 
